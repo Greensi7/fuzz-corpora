@@ -1,0 +1,57 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME 3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name=fer-Encoding: base64
+Content-Dispositione: application/x-pëcspe=signed-----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME 3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name=fer-Encoding: se64
+Content-Dispositim"
+Content-Transfer-Encoding: base32
+Content-DisposiME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------ETyppe=signed-data; name="smime.p7m"
+Content-Transfer-EMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatioÿÿÿÿÿÿÿÿÿÿEncodingÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿn/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smimqg3oAkMYICPzCCAjsCAQEwLTAVMRMwEQYD
+VQQDDApQb0MgU2lnbmVyAhQvkTjoXHKGxPsLcbU1Lbs61HtcCjANBglghkgBZQMame="smime.p6m"
+Content-Transfer-Encoding: base32
+Content-DisposiME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This i: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIIG1QYJKoZIhvcNAQcEoIIGxjCCBsICAQExEgguMIIBKgIBADASMA0xCzAJBgNV
+BAMMAkNBAgECMA0GCSqGSIb3DQEBAQUABIIBADBf36mdqWUMiMHKg2tJyvYjj9I1
+w4Qs the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p/lKX0EE7s"
+ContensB

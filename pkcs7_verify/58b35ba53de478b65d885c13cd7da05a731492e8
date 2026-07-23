@@ -1,0 +1,14 @@
+MI
+Content-Type: multipart/signed; protorealg="@ha-512"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This i l1ñ
+------9B5319FF2E4428B17CD26B69294E7F31
+CD26BÄ9hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature;rYha8e1
+
+------9I
+u17w==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

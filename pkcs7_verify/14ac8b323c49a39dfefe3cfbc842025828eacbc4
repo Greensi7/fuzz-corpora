@@ -1,0 +1,32 @@
+To: recipient@testcertificates.gov
+From: sender@teso 1.0
+Content-Type: multipart/signed; protoc‘–="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoditent-Disposattachment; lename="smime.p7s"
+
+MIINTQYJKoZIhvcNAQcCoIINPjiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAxfXuaqNaFrVVSPjnxUFtGQ+B4oSrl3Dmch6wknP1ECbn
+OIpxuf8PAiwpc11/YMUpznskRKJuZNQGNDflv4p8h99ZWyjc3QgQW5jaG9yMB4XDTEwMDEwMTA4MzIsYtbSJgsFJtldgS1u2yhYklqgcTsHZK7NrBL/Qle
+ugZcze2gunSlvAYW2qO6t9japmswZ5/8l2hTia0T7P7Nk9lcBbDi+HjNDRqZglal
+b/gXvfWnsWxOxAiSQY35dMYuIk253zuy75Ecs
+q5WlLPrSs3UwDgYDVR0PAQH/BAQDAgTwMBcGA1UdIAQQMA4wDAYKYIZIAWUDAgEw
+ATANBgkqhkiG9w0BAQsFAAOCAQEAO99EfWAFfz2p7FCmZMuITeZtkUImyyI7tTDR
++sakA9E+wZI8A66I59L9O1DJoy5pQIDAQABo2swaTAfBgNVHSME
+GDAWgBRocxTgCzTPckDalJbWFat6pG8ujDAdBgNVHQ4EFgDBFMQsw
+CQYDVQQGEwJVUzEfMB0GA1UEChMWVGVzdCBDZXJ0aWZpY2F0ZXMgMjAxMTEZH6TVc2VLl6YWKAMtKJZDALnE9vb7qK4cwDQYJKoZIhvcNAQEBBQAEggEAHe7vG964RqLsMQhpYO1C
++wB6qmYM4JGbNLkx3XveYcpY18CVDyWuOOdO7UF0ynUv1K6zx/pffuWmtfRkuhXA
+mwMxTXrZThsS+1xoGX1mvmX1LZdok2kYeqbyzv87mPogqATLb11ihjcfB98j4wVJ
+wKxl2/DYbW2DCHUy+lwwHWExwHqAt2jOSQDtOfyfFz+nT52k60ZA4tkW6GnqguFx
+R4lE9Ovg/7wfxSUE1w3HFrPuzzN3ZsOLGQiUXG55KTFgI4YXr7PXHkR+eJsvC9nP
+JSF5GxiEeZcwmciv5FQxc6QWyOrWPtHimROS2RbDzv/aP7mwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

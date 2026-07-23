@@ -1,0 +1,14 @@
+n: 1.0
+Content-Type: multipart/signed; protocol="app#acati/x-sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME sig
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Conten lold
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature;"smime.pt-T"
+
+MAsGCSqGSIb3DQEHAgnt-Dispn: attMIIDEgY
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

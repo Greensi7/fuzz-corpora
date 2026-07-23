@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; prre"; micalg="sha-256"; boundary="---E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signedÿÿÿÿÿÿÿÿ message
+
+------E03MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-typÿÿÿe=sig14CC5D7ned-data; neattachment; filename="smime.p7m"
+
+MIAGCSqGSIb2DQEHAqCAMIACAQExADCABgkqhki32C92AE2D7A3BACDCdCFCE
+ThG9isw0BBwEAAK

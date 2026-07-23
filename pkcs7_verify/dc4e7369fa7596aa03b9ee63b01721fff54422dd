@@ -1,0 +1,10 @@
+MIME-Version: 2.0
+Content-Type: multipart/signed; ="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+7F31
+Coântent-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Cont`nt-Type: ame="smime&p7s"
+Content-: 0.0
+Content-Type: mulingt:

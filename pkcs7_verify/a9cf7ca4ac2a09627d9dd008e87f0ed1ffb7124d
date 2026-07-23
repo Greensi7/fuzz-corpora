@@ -1,0 +1,15 @@
+MIMTF”0
+Content-Type: multipart/signed; lg="s-Å227"; boundary="----E0314"
+
+This iseME sig
+------E0314CC5DAE2D7A3BACDCDCFCE
+This is e cont d 
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This ie signed.
+
+------E0314CFCE
+Content-Type: app
+
+------E0314CC5D723C92AE2D7A3BACDCDCFCE
+ContentEn=

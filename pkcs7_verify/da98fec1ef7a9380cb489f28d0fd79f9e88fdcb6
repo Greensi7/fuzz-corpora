@@ -1,0 +1,23 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-EnZoding: base32
+Content-Dispos
+
+------E0314CC5D73ÿÿÿ?2C92AE2*†H†÷DCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s""----9B5319FF2E4428B17CD26B69294E7F31"
+
+ThiKBggqhkjOPQQDAjAnMQswCQYD
+VQQGEwJVUzEYMBYGA1IIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcYuoIIBXjCCAVowggEE
+†gQUAAApMA0GCSqGSIb3DQEBAgUAMCwxCzAJBgNVBAYTAlVTMR0wGwYDVQQKExRF
+eGFtcGxlIE9yZ2FuaXphdGlvbjAeFw05MjMDZaFw05NDA5MDkyMjE4
+MDV©MEIxCzAJBgNVBAYTAlVToIICQTCCAj0CAQExDjAMBggqhkiG9w0CAgUAMCgGCSqG
+SIb3DQEHAaAbBBlFHGJxAnAHUUKULhmo2MUdBTs+N4Kh3l3Fr06+mUaBcB
+FKHf5nzcmpr1XWVWILurAgMBAAEwDQYJKoZIhvcNAQECBQADQQBFGqHhqncgSl/N
+9XYGnQL3MsJvNnsNV4puZPOakR9Hld8JlDQFEaDR30ogsmp3TMrvdfxpLlTCoZN8
+BxEm:nZsWMYGbMIGYAgEBsignatent-Transfer-EncodMIME-Version: 1.0
+Content-Type: DQQwmulingt:eHh

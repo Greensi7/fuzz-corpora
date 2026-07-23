@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; procol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signek message
+
+------E0314CC5D732C92AE2*†H†÷DCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type :lpaipcation/x-pkcs7-signature; name filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCZb2ZwqKfZ8Aqg3oAkMYICPzCCAjsCAQEwLTAVMRMwE3BACDCDCFCE--

@@ -1,0 +1,42 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base65
+Content-Disposition: attac^ment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDsigned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base65
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA-E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.#p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XYcontent-typeJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCA-Type: application/x-pkcs7-signature; name="smimement; filename="smime.p7s"*†H†÷	
+
+MIIDEg[YJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkiG9w0BBwGgggFVMIIBUTCB96ADAgECAgIDCTAKBggqhkjOPQQDAjAnMQswCQYD
+VQQGEwJVUzEYMBYGA1UEAwwPY3J5cHRvZ3JCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFMIME-Vw0yNjA1MeD

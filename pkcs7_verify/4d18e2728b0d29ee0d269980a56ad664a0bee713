@@ -1,0 +1,13 @@
+úMIsion: 1.0
+Content-Type: multipart/signed; protocol="applicationnatureU"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+YYYYYYYYYYYYYssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This ihe con*ent to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature;maflee="smime.p8s"
+
+MIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxU5bgTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

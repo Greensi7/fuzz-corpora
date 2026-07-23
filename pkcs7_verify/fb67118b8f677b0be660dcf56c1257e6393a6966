@@ -1,0 +1,14 @@
+MI
+Content-Type: multipart/signed; protore"; micalg="@ha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This i world
+------9B5319FF2E4428B17CD26B69294E7F31
+CD26B69hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature;rYhaAuvdNF8EPuhgoPNe17RuUSLw==
+
+------926e43zj4YtI
+uNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

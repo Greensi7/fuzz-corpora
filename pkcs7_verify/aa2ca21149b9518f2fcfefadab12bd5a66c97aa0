@@ -1,0 +1,8 @@
+MI0.0
+Content-Type: multipart/signed; protocol="application/x-pkcs8-signature"; micalg="sha-256" ;boundary="----E031E"
+
+Ths an S/MIME signed message
+
+------E0314CC5D732C92A=2D7A3B cnte
+------E031D7A3ÿÿEncoeing: base64
+Cment;=

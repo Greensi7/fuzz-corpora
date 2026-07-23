@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatioha-56"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIsage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the congned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nam~ename=smime.p7s"
+
+MIIFh
+eS6F49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

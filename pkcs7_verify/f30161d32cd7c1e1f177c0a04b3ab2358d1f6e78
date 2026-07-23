@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatia-256"; boundary="----E0314CC5D732C92AE2D7A3BACE"
+
+This is an S/MIME signed message
+
+------CCCCCCe signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nTo: recipient@testcertificates.gov
+From: sender@testcertifiiposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIh"----Cv

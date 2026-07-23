@@ -1,0 +1,13 @@
+ìME-Version: 1.0
+Content-Type: multipart/signed; protocol="aêèn/x-pkcs7-signature";(micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+Thige
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Contento world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: appli"smime.p7s"
+Conefer-Encoding: base64smime.p7gYJ4YtInssmime.p7==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

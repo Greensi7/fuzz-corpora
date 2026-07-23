@@ -1,0 +1,10 @@
+MIME-Versiop7“Ýõë: 1.0
+Content-Type: multipart/signed; pn/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIMEd ins gemessagsubje
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+---GCSqÿÿÿÿÿÿ
+M`sG---C0314CCGSIb15ÄD

@@ -1,0 +1,6 @@
+MIME-VersiAon: 2.0
+Content-Type: application/x-pkcs7-mime; smime-type=siga; name="sm"
+Content-Transfer-Encoding?: base64
+Content-Disposition:chment;lename="sme.p7m"
+
+MAsGCSqGSIb3DQEHAg==

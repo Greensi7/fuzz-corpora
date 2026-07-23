@@ -1,0 +1,28 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; pro‹ocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------dy
+s1G3ET5Emp6FvYBZLSYQqK2nWkL8xFIbbdureHpD1Af+HWFDTntlZzw1Vb2MXvmz
+0pYFdRGA75jwKDwbjPQQ7GuKu0bUPL5Aoi/u5jDH9Npgb2OqnXTyvi6QUMEVPpMwfU/TCCAeMwgcwCAQEwDQYJKoZIhvcNAQEL
+BQAwRTELMAkGA1UEBhMCVVMxHzAdBgNVBAoTFlRlc3QgQ2VydGlmaWNhdGVzIDIw
+MTExFTATBgNVBAMTDFRydXN0IEFuY2hvchcNMTAwMTAxMDgzMDAwWhcNMzAxMjMx
+MDgzMDAwWjAiMCACAWgwrMnqwOj7H0umdTqIoQwrAZp
+r3vR7I+xbnE9vb7qK4cwDQYJKoZIhvcNAQEBBQAEggEAHe7vG964RqLsMJhpYO1C
++wB6qmYM4JGbNLkx3XveYcpY18CVDyWuOOdO7UF0ynUv1K6zx/pffuWmtfRkuhXA
+mwMxTXrZThsS+1xoGX1mvmX1LZdok2kYeqbyzv87mPogqATLb11ihjcfB98j4wVJ
+wKxl2/DYbW2DCHUy+lwwHWExwHqAt2jOSQDtOfyfFz+nT52k60ZA4tkW6GnqguFx
+R4lE9Ovg/7wfxSUE1w3HFrPuzzN3ZsOLGQiUXG55KTFgI4YXr7PXHkR+eJsvC9nP
+JSF6GxiEeZcwmciîG9saWN5IENBAgEBMA0GCWCGSAFlAwQC
+AQUAoGkwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
+MTEwNDE0MTMwMjIwWjAvBgkqhkiG9w0BCQQxIgQ1A319E09E6A4BB51A44961168--
+

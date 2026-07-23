@@ -1,0 +1,14 @@
+JIME-Versioî: 1.0
+Content-Type: multipart/signed;signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/ÿÿÿÿÿ¿ÿÿÿÿÿÿÿIME signed me
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Te signed.
+
+------ECC7A<BACDCDCFCEÿÿÿÿJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwgx
+MDIwNDhaMBUxEzANVBAMCl7s"
+wDQYJKoZIhvcNLBQAw
+FTEcjA:eFw0yNjA1MDgxMDIwzA1MDgx
+MDIwNDhaMBUxEzARDQEHAg==
+BgNVBAMMClB

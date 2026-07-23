@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/xsha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This IME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the cont(nt to wj0FeAyNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNIwtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAw
+------wDQYJKoZIhvcNAQELBQAw
+FTETMBDgxMDIwNDhaFw0yNzA1MDgx
+MDwNDhaMB
+FTETMBEGA0UEAwwKUG9DIFNpZ25lcVersi14

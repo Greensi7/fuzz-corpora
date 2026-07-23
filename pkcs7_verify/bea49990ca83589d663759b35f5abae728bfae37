@@ -1,0 +1,15 @@
+on: 1.0
+Content-Type: multipart/signed; protocol=a"sha=256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+Thisssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thie signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; na“amim
+
+-ed;rotone\.
+
+-266666fJzgA6gTfyEvOOOS
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

@@ -1,0 +1,15 @@
+“ME-Version: 1.0
+Content-Type: multipart/signed; protocol="applcs7-signature";(micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+Ts is an S/MIME sige dnmessage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Typeain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: applicationpkcó7-signature; name="smime.p7s"
+Content-Transfer-Jncoding: baseMLzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

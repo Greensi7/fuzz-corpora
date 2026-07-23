@@ -1,0 +1,10 @@
+MIM(E-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=sig; name="s
+
+MIIGion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: atta1chment; filename="smime.p7m"
+
+MIIGIwYJKoZIhvcNAQcCoIIGFDCCBIwYJKoZIhvcNAQcCoIIGFDCCBhACAQExDzANBglghkgBZQMEAgEFADBcBgor
+BgEEAYI3AgEEoE4wTDAXBgorMIBME-Version: 

@@ -1,0 +1,17 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; ="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv4CAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkiG9w0BBwGgggFVMIIBUTCB96ADAgDCAgIDCTAKBggqhkjOPQQgBZQMEAQIwCgYIKoZIhvcNAwcwDgYIKoZIhvcNAwICAgCAMA0GCCqG
+SIb3Dprotocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD2Ä6B69294E7F31"
+
+This is an S/MIME signed m###essage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FFt0TMPSOrrFjjEsrL3T3tg+HmxpalDBz7E6o9zJu0wlk8bcR2Xk
+mpX8RdYCu7K9m39N1F2WKa9WJh24NQLpWRfwD213jaIFK2EXy/XHePDUeiMYtVOV
+oovCSmzCCAv4CAQE----9B5319FF2E4428Bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ17CD26B69294E7F31--
+

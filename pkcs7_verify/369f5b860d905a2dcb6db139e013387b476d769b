@@ -1,0 +1,63 @@
+To: ificates.gov
+Subject: Invalid Mapping F@rom anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatioe"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S????????/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB5qA44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-GA1UEBhMCVVMxHzAdBgNVBAoTFlRlc3QgQ2VydGlmaWNUltYVq3qkby6MMA4GA1UdDwEB/wQEAwIBBjn
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-Signature; nÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿame="smimessage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hel
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124BAoTFlRlc3QgQ2VydGlmaWNUltYVq3qkby6MMA4GA1UdDwEB/wQEAwIBBjAPBgNVHRAwIBMAEwDwYDVR0kAQH/BAUwA4ABADANBgkqhkiG9w0BAQncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-d‡ta; name="smime.p7m"
+Content-Transfer-Encoding: -Transfer-Encoding: base¶4
+Content-Dbase28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocolain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-GA1UEBhMCVVMxHzAdBgNVBAoTFlRlc3QgQ2VioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-d‡ta; name="smime.p7m"
+Content-Transfer-Encoding: -Transfer-Encoding: base64
+Content-Dbase28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-sigF31
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-name="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAvi="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-name="smime.p7s"
+
+MI·»º˜¦µ´™ZIhvcNAQcCoIIDAzCCAvigAQExDzANBglghkgBZQMEime.A

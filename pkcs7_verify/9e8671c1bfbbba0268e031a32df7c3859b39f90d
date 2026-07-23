@@ -1,0 +1,10 @@
+MIMsion: 1.0
+Content-Type: multipart/signed; protocol="applicationpkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is content to be signed.
+
+---GCSqÿÿÿÿÿÿ
+M`sGCSqE0314CCGSIb15ÄD

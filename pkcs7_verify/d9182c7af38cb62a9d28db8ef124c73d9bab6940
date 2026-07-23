@@ -1,0 +1,147 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mappingÿrom anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Tr/x-pkEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+Content-Transfer-Encoding:Ag==cs7-mimeype=si; e-type=signed
+-data; name="smime.p7m"
+mimeype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHa; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+Content-Transfer-gned
+-data; name="smime.p7m
+E"kHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+pe=signed
+-d>ta; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAÞÞÞÞÞÞÞÞÞÞÞÞÞg==cs7-mime; sg~nes7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; smimem"
+kEHAg==cs7-mikEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-gned
+-data; name="smie; name="smime.p7m"
+kEHAg==cÿ"
+kEHAg==cs7-mime; smime-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-data; name="Ag==cs7-mime; smime-type=signed
+-data; name=":
+:
+C:smime.p7m"
+Content-Transfer-Encoding:Ag==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+mi="=cs7-mime; smim
+:e-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-dameype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHta; name="smime.p7m"
+kE smime-type=signed
+-data; name="smime.p7m"
+mi="=cs7-mime; smim
+:e-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-dameype=si; smime-type=signed
+-data; namsmime.p7m"
+kEHAg==cs7-mime; sgnes7-mime; smime-type=signed
+-data; nansfer-gned
+-data; name="smime.p7m
+E"kHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+pe=signed
+-d>ta; name="smime.p7m"
+kEHAg=ime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name=ÿÿÿ
+me.p7m"
+kEHAg==cs7-mig==cs7-mi; name="smime.p7m"
+kEHAg==cs7-mime; sgnes7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name=":
+:
+C:smime.p7m"
+Content-Transfer-Encoding:Ag==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+mi="=cs7-mime; smim
+:e-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-dameype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHta; name="smime.p7m"
+kE smime-type=signed
+-data; name="smime.p7m"
+mi="=cs7-mime; smim
+:e-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-dameype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHta; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+Content-Transfer-Encoding:Ag==cs7-mimeype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.pÿ"
+kEHAg==cs7-mime; smime-type=ame="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+Content-Transfer-Encoding:Ag==cs7-mim"
+kEHta; name="smime.p7m"
+kEHAg==csmime.p7m"
+mimeype=si; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+pe=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; na“šÂÝŒ’––e.p7m"
+kEHAg==cs7-mig==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; sgnes7/mime; sms7-mime; sgnes7-mime; smime-type=signed
+-data; name="smime.p7m"
+kEHAg==cs7-mime; smime-type=signed
+-data; name="smime.p7m"
+Content-Transferciv5FQxc6QWyOrWPtHimROS2RbDzv/aP7mwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

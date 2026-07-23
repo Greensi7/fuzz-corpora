@@ -1,0 +1,31 @@
+MIME-Ve$sion: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello orld
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smi.p7s"
+Content-Tilename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEAgEDADALBgkq
+hkiG9ww4nMqkxggGBMIIBfQIBATAtMCcxCzAJuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuBgNVBAYTAlVTMRgw
+FgYDVQQDDA9jcnlwdG9ncmFwaHkgQ0ECAgMJMA0GCWCGSAFlAwQCAQUAoIHkMBgG
+CSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUyMDE4
+NTA0OVowLwYJKoZIhvcNAQkEMSIEIOdwMRgQrqcnmMYvag+BVvErcc6bwUXI94Ds
+QkiyIU9pMHkGCSqGSIb3DQEJDzFsMGowCwYJYIZIAWUvTvPDG++Gve0oQ+0uctuhrNQ+WxRv8GC
+177F+QWjEzARMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSQAwRgIhANES
+742XWm64tkGnz8DnpG6u2lhkZFQr3oaVvPcemvlbAiEA0WGGzmYx5C9UAoIHkMBgG
+CSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUyMDE4
+NTA0OVowLwYJKoZIhvcNAQkEMSIEIOdwMRgQrqcnmMYvag+BVvErcc6bwUXI94Ds
+QkiyIU9pMHkGCSqGSIb3DQEJDzFsMGowCwYJYIZIAWUDBAEqMAsGCWCGSAFlAwQB
+FjALBglghkgBZQMEAQIwcgYIKoZIhvcNAwcwDgYIKoZIhvcNAwICAgCAMA0GCCqG
+SIb3DQMCAgFAMAcGBSsOAwIHMA0GCCqGSIb3DQMCAgEoMAoGCCqGSM49BAMCBEcw
+RQIhANYMJku1fW9T1MIEcAyREArz9kXCY4tWck5Pt0xzrYhaAiBDSP6e43zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

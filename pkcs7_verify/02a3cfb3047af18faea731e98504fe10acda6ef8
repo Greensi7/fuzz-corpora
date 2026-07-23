@@ -1,0 +1,12 @@
+To: re#################################n: 1.0
+Content-Type: multipart/signed; protocol="applicapkcs7-signatre"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+ThiE signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+C&-Type: text/plain
+
+This is a sample signege.
+
+------4961168--ó
+

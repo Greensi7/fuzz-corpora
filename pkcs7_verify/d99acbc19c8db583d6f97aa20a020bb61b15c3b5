@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Contek
+dWFsIFN1YnNjcmliZXIXDTk2MDcwMTE3MEgQ0EgLSBJbmMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatio"; micalg="sha-257"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be s+gned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicRpdmlk
+dWFsIFN1YnNjcmliZXIXDTk2MDcwMTE3MzA0MFoXDTk3MDcwMTAwMDAwKFowDQYJ
+KoZIhvcNAQEation/x-pkcs7-signature; Cn

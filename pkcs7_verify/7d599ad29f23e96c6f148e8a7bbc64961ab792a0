@@ -1,0 +1,36 @@
+MIME-VerŒion: 1.0
+Content-Type: multipart/signed; protocol="kcs7-signature"; micalg="sha-256"; boundary="----E3BACDCDCFCE"
+
+This is an S/MIME d.
+
+------E0D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signa1o
+0.tC nte="appA3BACDCDCFCE"
+
+This is an [/MIME si\ned mesîge
+
+------E031gned.
+
+------E0314CC5D732C92AE2D7A3BACDC"----E3BACDCDCFCE"
+
+This is an S/MI*†H†÷	ME d.
+
+------E0D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signa1o
+CE"
+
+This is an [/MIME si\ned mesîge
+
+------E031gned.
+
+---mime.p7s"
+
+MIINTQYJKoZIhvcNAQcCoIINPjCCG9w0BBwGgggdpMIIDvTCCAqWgAwIBAgIBMzANBgkqhkiG
+
+¬—–‘ is an S/MIME signed mesSU1
+
+------E0314CC5D732C92AE2D7A3BACDCDCpA3BACDCDCFCE"
+
+¬—–‘ is an S/MIME signed mesS1
+
+------E0CC5D732C92AE2D7A3BACDCDCFCE--

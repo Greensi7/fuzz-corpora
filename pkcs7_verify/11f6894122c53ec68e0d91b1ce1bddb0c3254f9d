@@ -1,0 +1,5 @@
+MIM: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="---9FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signedfer-EncodMIME-Ver1.0
+Content-Type: mulingt:

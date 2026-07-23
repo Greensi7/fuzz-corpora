@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed;icalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This si an S/MIME signed message
+
+------E0314CC5D732C92AE2*†H†÷DCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicationMIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIIGIwYJKoZIhvcNAQcCoIIGFDCCBhACAQExDzANBglghkgBZQMEAgEFADBcBgor
+BgEEAYI3AgEEoE4wTDAXBgorBgEEAYI3AgEPMAkDAQCgBKICgAAwMTANBglghkgB
+ZQMEAgEFAAMBgG
+CSqjwk
+FsbSGb6CYBM7YrDtPh2

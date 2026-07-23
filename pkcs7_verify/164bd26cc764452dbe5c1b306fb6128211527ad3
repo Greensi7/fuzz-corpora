@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Content-Typpe=signed-data; namansfer-EMIME-Version: 0.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D7AE2D7A3BACDKDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3B content to be signed.
+
+------E031D7A3ÿÿEncoding: base64
+Cment; filename="smimGCSqGSIb3Ä"
+
+MAsGCSqGSIb3ÄQEHAg==

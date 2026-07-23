@@ -1,0 +1,12 @@
+MIME-Versˆion: 1.0
+Content-Type: multipart/signed; micalg="sha-256"; boundary="----E0314CC5D732C92FCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE§This is the content to be signed.
+
+------E0315CCHqd9lccchk/BYyAGxAbgGisntvfJdPZO09wG8rHh
+eS6FYkkEX™KBO49WbhE9aVLJH0JH0zgA6gTfyEvOOOS1
+
+-----Fs6cN7dUOrsFVbq9iethjZQxSHb3DQMC
+CE--

@@ -1,0 +1,10 @@
+MIIMion: 1.0
+Content-Type: multipart/signed; proto2AE; g="sa2-56"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is gned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tne thecont to be sniged.
+
+---GCSqÿÿÿÿÿÿ
+M`sG---CSqE0157CCÿÿÿ14ÄD

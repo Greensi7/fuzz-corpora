@@ -1,0 +1,14 @@
+MIM
+Content-Type: multipart/signed; protocol="applicatioha-56"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/M
+ÿÿÿÿÿÿÿÿÿÿ
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the congd.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nam.p7s"
+
+MIILJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

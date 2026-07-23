@@ -1,0 +1,27 @@
+MIM-Version: 1.0
+Content-Type: multipart/signed; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MI:ME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be sigÿned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: appication/x—pkcont-ent-mim-Tng: basfer-Encoding: base64
+Content-Disposition: attach
+ConteLuMIIC
+6jCCA—´˜¾ˆ¶½¾gDQEBAQUA
+A4IBDwAwggEKAoIBAQDSSu/gupmIlc@vmTMHiqOrCqmB8NRTjAMoI//M)JrnFXYp
+FjDPMk7Y/kCcHztudaIvADkowaFtOm4oMinQFhjwCNCo5K5itnpcd5QH2nA
+iVZXjjohQ
+mpX8RdiMYtVOV
+{ovC4
+DQEBCwUs
+m32/XiFrVAitnpcd5QH2nA
+iVZXjjohQ
+–pX8RdiMYtVOV
+{ovCSmY7Oqow?upA7q+4
+DQ5bSWoo0BRFKK
+srWbhE9aVLJH0zgA6gTf:yEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

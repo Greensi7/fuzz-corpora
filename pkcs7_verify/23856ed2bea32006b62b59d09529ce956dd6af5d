@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protsignature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tgned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nat-Transfer-Encoding: base64
+Content-Disposition: aýttachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG4w0BfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

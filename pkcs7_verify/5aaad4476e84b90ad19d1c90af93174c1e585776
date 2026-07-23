@@ -1,0 +1,21 @@
+MIMV-Eersion: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; mica@g="sha-256"; boundary="--DCDCFCE"
+
+This hs an S/MIME signed mecsage
+
+------E0314CC5D732C92AE1D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0315Csignature; nme.p7q"
+Content-Trd89MIME-Version: 1.0
+Content-Type: multipart/sig"sha-256"ndary="--9B5ÍÎÆ¹¹ÍºÒ428B17CD26B69294E7F31"
+
+This is 
+
+------9B5319FF2E44ng: baÿ64
+Cot-Ty@pe: text/plain
+
+hetntent-Disposition: attachmenF31
+Content-Ty@pe: text/plain
+
+hetllo w; o

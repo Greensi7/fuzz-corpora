@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-056"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signedQUA
+A4IBDwAwggEKAoIBAQDSA1MDgxMDIwNDhaMC8GCSqGSIb3DQEJBDEiBCAvyoHfycLqb8UzVPizy1uBKjAL
+BglghkgBZQMEARYwCwYJYIZIBYyAGxAbgGisnt(fJdPZO09wG8rHh
+eS6FYkkXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

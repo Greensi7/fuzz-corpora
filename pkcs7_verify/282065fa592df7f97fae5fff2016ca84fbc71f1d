@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatiogggggggggggggggggggggggggggggggggggggggggn/x-pkcs6-signature"m ;icalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thiss an Sgned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+hTis is the content to be signed.
+
+kkXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

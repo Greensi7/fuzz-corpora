@@ -1,0 +1,20 @@
+HIME-Version: 1'.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Typ7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETo: r›£ipient@test5lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBUxEzARBgNkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAÀIUL5E46FxyhsT7C3G1NS27OF
+TeAxl++qnRDSWA2eBp4yuxsIVl1tR7XAowDQYJKoZIhvcNAQELBQAw
+FTsubjectETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFcates.gov
+From: sender@testcertificates.gov
+Subjing From anyPolicy Test7
+MIME-Version: 1.0
+w0yNjA1gx
+MDIwNDhaMBContent-TypUxEzAe:RBgN

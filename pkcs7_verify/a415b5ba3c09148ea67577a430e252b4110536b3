@@ -1,0 +1,17 @@
+y IME-Veùion: 1.0
+Content-Type: multipart/signed; protocol="a256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+Tan S/MIMge
+
+------C124D5D1A319E09E6A4BB51A44961168
+Colain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature;k9lcBbDi+HjNDRqZglal
+b/gXvfWnsWxOxAiSQX
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

@@ -1,0 +1,18 @@
+Ton: 1.0
+Content-Type: multipart/signed; proappliication/pkcs7-signalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is anmessage
+
+------C124D5D1A319E09E6A4BB51A44961168
+Cnte: texe.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; "
+
+n4ejld0RUQ5Nwc1/FrhuNK5x
+R4lE9Ovg/7wfxSUE1UXG55KTFYXr7PXHkR+eJsvC9nP
+JSF6GxiEeyOrWPtHimROS2RbDzv/aP7mwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

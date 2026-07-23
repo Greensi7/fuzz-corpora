@@ -1,0 +1,10 @@
+MIþ`:ME-Version: 1.0
+Content-Type: multipart/signed; protocol=ÿ"application/x-pkcs7-s&ignature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S6MIME sgnied message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to bc
+FTETMBEGKUG9DIFNpZ25lcjAeAw0yNjA1MDgNVBt-Transf
+Fan
+FTETMBEGA1UEAMDgxMDIwNDhaMC8GCSqGSIb3DE--,

@@ -1,0 +1,36 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocolcalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This S/MIME signed message
+
+-----DCDCFCE
+This is the content to be signed.
+
+------E03ssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tjis isThis S/
+------E03ssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tjis isThis S/MIME sign
+
+-BACDCDCFigned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+The content to be signed.
+
+------E03ssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tjis isThis S/
+------E03ssage
+
+------E0314CC5D732C92AE2D7A3BA´FCDCFCE
+Tjis isThis S/MIME sign
+
+-Bge
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+IFWgYJKoŒ_IhvcNAŒŒŒŒŒQcC

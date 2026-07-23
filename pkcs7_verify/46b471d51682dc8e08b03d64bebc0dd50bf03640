@@ -1,0 +1,22 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applture"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Th
+
+-----E0514CC5D732C94CC5D732C92AE2D7ACDCDCFCE"
+
+This is anE signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tiis is the content to be ~igned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: appтттттттттттттттттттттттттттттттт
+Content-Transfer-Encoding: base64
+Con-iteDstnposition: att>chment; filename="smi[me.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSdOXrKvqSkOYonxxlf9he5ME-Version: 1.0
+Content-Type: apation

@@ -1,0 +1,28 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="appl256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-sip7s"
+Content-Transfer-Encoding: base64
+Content-Dispose64
+Content-Disposition: attachLBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1Ment-Dispose64
+Content-Disposition: attachLBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBUxEzARBgNVBAMMClBvQyU+BTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDSSu/gupmIlclvm-MDgx
+MDIwNDhaMBUxEzARBgNVBAMMClBvQyU+BTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDSSu/gupmIlclvm--TMHiqOrCqmB8NRTjAMoI//MPJrnFXYp
+FjDPMk7Y/kCcHztudaIvADkoQAw
+FTETMBEGA2UEAwwKUGF4GSqv8BRUgZTUvwEk5+aXyv
+zJxn4I7mMbDhlNCMHcVtGdtA+2UOEuvdGfuEil!zPsV8DzM1K3xUHh
+eS6FYkkXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

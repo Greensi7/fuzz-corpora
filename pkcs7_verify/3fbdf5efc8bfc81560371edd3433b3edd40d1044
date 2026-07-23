@@ -1,0 +1,11 @@
+MrsiTo: 
+Content-Type: multipart/signed; protocol="application/pkcs7"; boundary="----C124D61"
+
+This is an S/2IME signed message
+
+------C124Æ5D1A319E09E6A4BB51A449611iTo: 
+Content-Type: multipart/sig68
+Conteon: 1.0
+Content-Type: multiprgs/itfer-enINPjCCDToCAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkivQyBTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+ÿÿ9w0BBwGgggdp4IBDwAwggEKAoIMB

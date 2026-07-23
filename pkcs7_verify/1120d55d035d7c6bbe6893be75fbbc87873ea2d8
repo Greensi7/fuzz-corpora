@@ -1,0 +1,15 @@
+MIM?-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D7"
+
+Thisлллллллллллллллллллллллллллллллплллллллллллллллллллллллллллллллллллллллллmultiллллллллллллллллллллллллллллллл is an S6MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is thesignature; name="smime.p7s"
+ContenAw
+FTETMBEGA1UEAwwKUG9Dt-Transfer-Encoding: base64
+Content-Disposition: attachment; fFSzCCBUcCAQExA
+FTETMBEGA1UEAwwKuZXIwggEiMA0EGA1UEAwwKuZXIwggEiMA0GCSqGSIb3DQEBA
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBQELBQAw
+FTET4sZzIbYSeiMIME--Transfer-E  9
+ps7GZruiRcKgqh
+eS6FYlkXAKBO49WbhE9aVLJH 

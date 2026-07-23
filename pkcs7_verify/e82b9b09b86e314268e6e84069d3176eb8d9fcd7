@@ -1,0 +1,9 @@
+0
+Content-Typpe=signed/data; name=".0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signuarte"; micalg="sha-256"; boundary="----4CC5D732C92AE2D7A3BACDKDCFCE"
+T
+iis is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7Ae signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDooooÄSEHAg==

@@ -1,0 +1,19 @@
+To:tcertificates.govrom: sender@tion: 1.0
+Content-Type: multipart/signed; pròtocol="application/pkcs7-signatu256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This isM an S/MMIE signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!
+
+------C319E09E6A4BB51A44961168
+Colain
+
+This is a
+
+------C124D5D1/plain
+
+hello world
+------9B5319FF2E4428B17 application/x-Eg

@@ -1,0 +1,12 @@
+ 1.0
+Content-Type: multipart/signed; procol="applica-256"; boundary="----E(314CC5D732C92BCCADDCFCE"
+
+This i€€€€€€€€€SAsage
+
+------E0314CC5D732C92AE2*ÜHÜ˜DCFE
+This is the content to$be signed.
+
+------E03CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type :lpaipcation/x-pkcs3-signature; name filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcZb2ZwqKfZ8Aqg3oAkMYICPzCCAjsCAQEwLTAVMRMwE6BACDCDCFCE--

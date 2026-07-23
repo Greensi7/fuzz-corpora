@@ -1,0 +1,12 @@
+MVersion: 1.0
+Content-Type: multipart/signed; protoco—="appl6"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME si
+------E0314CC5D732C92AE2D7A3BACDCDCFCEhis is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; e.p5s"
+
+MIIAAAMDIwNDhaFDpcnRL
+MBrN+QBNZVt
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

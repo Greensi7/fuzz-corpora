@@ -1,0 +1,28 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pke"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+92AE2D7AThis is an S=IME sig/ed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thise con3BACDCDCFCE
+C
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to besigned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Cessage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCEø«—–s is the cnt to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-T2D7A3BACDCDCFCE
+C
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the contentmicalg signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+ype: ae
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCEø«—–s is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-4me; smi

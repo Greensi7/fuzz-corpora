@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; nabase22
+Content-Disposition: attachment; filename="smime.p7m"
+
+MHAGCSqGSIb6DQEHAqCAMIACAMExADCABgkqhkiG9w0BBwEAAKCAMIIE+DCCBGGg
+AwIBAgIQaGSF/JpbS2C223+yrc+N1DANBgkqhkiG9w0BAQQFADBiMREwDwYDVQQH
+EwhJbnRlcm5ldDEXMBUbavjN1DANBg/Psp2prBrkF4T48+AKRmS8Zzh1guxgvP
+b+xSu/jH0gAAMYAAAAAAAAAAAA==

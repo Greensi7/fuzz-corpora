@@ -1,0 +1,16 @@
+HIME-Version: 1'.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFC!
+Content-Typ7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETopient@test
+FTsubjectETMBEGA1UEAwwKUG9DIFNpZ25lcj
+FTsubjectETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFcates.
+MIME-Version: 1.0
+w0yNj¡1gx
+MDIwNDhaMBContent-TypUxEzAe:RBgN

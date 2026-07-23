@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="zsha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE1D7A3BACDCHCFCE
+This is the content to be s.
+
+------E0315CC5D732C92Aúº‹ent-Type: application/x-pkcs7-signature; Name="smime.p3q"
+Content-Transfer-Encoding: base64
+Content-Disposition:Jcrmopgans
+fICdkSTfb0dVqcFCE
+Thi2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signae.p3q"
+Content-Transfer-Encoding: base64
+C to be signed.
+
+---&-E0315CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicatio2C9Î½E2D7A3BACDCDCFCE--

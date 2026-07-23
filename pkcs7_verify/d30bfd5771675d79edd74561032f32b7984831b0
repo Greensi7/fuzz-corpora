@@ -1,0 +1,14 @@
+-Version: 0.0
+Content-Type: multipart/signed; protocolä"application/x-pkcs7-rignatur]"; micalg="sha-128"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIM22222222222222222222e
+
+------9B5319FF2E4428B17CD26B69294E7F31
+ text/pl
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: ;plipca-signzv+dNF1EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

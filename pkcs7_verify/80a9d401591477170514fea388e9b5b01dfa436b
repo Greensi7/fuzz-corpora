@@ -1,0 +1,6 @@
+MIME-Vÿÿÿÿÿÿÿers:on.i 10
+Content-Type: application/x-pkcs7-mime; smimme="smime.p7m"
+
+MIIC-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-DisGSIipart/signed; protocol="application/pkcs7-signatureb3DQICBQAwDQ

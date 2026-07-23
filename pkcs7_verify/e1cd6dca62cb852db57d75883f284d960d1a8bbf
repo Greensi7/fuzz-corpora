@@ -1,0 +1,21 @@
+To: recTest7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatiopkn/cssi-7gnature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: teain
+
+Thi signEd message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; nt"smime.p7s"
+
+n4ejld0RUQ5Nwc1/FrwggHMMIG1
+AgEBMA0GCSqGSIb3DQEBCwUAMFIxCzAJBgNVBAYTAlVTMR8wHQYDVQQKExZUZXN0
+IENlcnRpZ5UGwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

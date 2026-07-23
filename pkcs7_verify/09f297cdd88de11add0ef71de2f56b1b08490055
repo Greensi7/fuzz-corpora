@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-128"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+ME siÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿge
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the coe signed.
+
+-----4CC5D message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content teBsigned.
+
+--EvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

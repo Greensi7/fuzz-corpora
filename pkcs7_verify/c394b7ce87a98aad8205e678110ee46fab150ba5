@@ -1,0 +1,13 @@
+MI 1.0
+Content-Type: multipart/signed; ocol="applgnaure"D micalgÌ"-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+Ts an S/essage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCEnt toUd signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; n
+
+MIIAAAOqowupA6FYkkXAKgTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

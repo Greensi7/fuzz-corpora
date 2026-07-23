@@ -1,0 +1,11 @@
+MIME-0
+Content-TYpe: multipart/signed; pkcg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+igned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thisd.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nameyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

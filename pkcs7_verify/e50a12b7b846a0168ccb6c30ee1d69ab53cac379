@@ -1,0 +1,5 @@
+MI: 1.0
+Content-Type: multipart/signed; pocol="appliture"; micalg="ha-256"; boundary="1E7F31"
+
+This ian S/MME signed me 1.0
+ingt:

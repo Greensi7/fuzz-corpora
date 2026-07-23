@@ -1,0 +1,20 @@
+MIΩ∫“©ersion: 1.0
+Content-Type: multipart/signed; protocol="applicatdon/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME cPu
+wECLBnE si∫“©ersion: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; ïêundary="----9B5319FF2E4428B17CD26Bw==
+
+------9B5319FF2E4428B17CD26B69294E7F31gned message
+
+------9B5319FF2E4428B17CD26B692YXf8wCgYIKoZIzj0EAwIDSQ4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31gned message
+
+------9B5319FF2E4428B17CD26B692YXBoeSBDQTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBj/z7¥5O8GC
+177F+QWjEzARMA1GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSQAwRgIhA3oaVvPYhaAiBDSP6e43zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

@@ -1,0 +1,11 @@
+MIME-Versi: 1.0
+Content-Type: multipart/signed; otocomicalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+ignedsage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Te sined.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; 
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

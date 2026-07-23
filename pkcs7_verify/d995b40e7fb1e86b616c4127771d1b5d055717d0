@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p"
+Content-Transfer-EMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applzcation/x-pkcs7-signature"; micalg="sha-256";`boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is ašd message
+
+------E0314CC5D732M1OTU5WjCCASAxETAPBgNVBAcTCAsjt7Sa9ZWLpBVdgjGBwGLs"C

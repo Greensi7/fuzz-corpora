@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAQ2xh
+c3MgMSBDQSAtIEluZGl2aWR1YWwgU3Vic2NyaWJlcjE3MDUGA1UECxMuRGlnaXRhbpdFmIFH0S3L3bty10w/cariQPJUObwW7s987Lrb
+P2wqsxaxhhKdrpM01bjV0Pc+qQIDAQABozMwMTAPBgNVHRMECDAGAQevxfUe2OaRbYpl8zuZvhK9BHD3ad14OSe9/zx5hOPgP/
+DQXt6R4R8Q/1JheBrolrgbavjvI2wKS8/Psp2prBrkF4T48+AKRmS8Zzh1guxgvP
+b+xSu/jH0gAAMYAAAAAAAAAAAA==

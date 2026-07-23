@@ -1,0 +1,15 @@
+MIME-Version: ÈÑ0
+Content-Type: multipart/signed; protocomime-version–ÂÝžpplication/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is ansigned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the gned.ÿÿÿÿÿÿÿÿÿÿÿ
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs9-signature; name="smime.content-dispositidpos%tiGgggLuMIIC
+6jCCAdKgAwIBAêIUL5ETfyEvOÏOS1
+
+------E0314CC5D7
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

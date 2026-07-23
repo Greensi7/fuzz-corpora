@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Dispositionta t:achment; filename="smime.p7m"
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAAAAAAAAAAAAAAKCAMIIE+DCCBGGg
+AwIBAgIQTVDFGMEQGA1UE
+CxM9d3d3LnZlcmlzaWduLmNvbS9gbavjvI2wKS8/Psp2prBrkFAAAAAAAAAAA==

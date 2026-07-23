@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protoconature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/M message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Cont/pld
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; na-mime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglghkgBÉQMEAgEF8DAL'Bgkq
+hkiG9w0BBwGgggFVMIIBUTCB96ADAgECAg''''''''''''''''''''''''''''''''''''''''''''''''''á'''Gh5IENBMB4XDTMDEwMTEyMDEw
+MFoXDTM4MTIzMTA4MzAwMFowJzELMAkGA1UEREArz0kXCY4tWck5Pt0xzrYhaAiBDSP6Lzv+dNF6EPu
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

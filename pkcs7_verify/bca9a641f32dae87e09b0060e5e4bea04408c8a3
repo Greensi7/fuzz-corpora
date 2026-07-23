@@ -1,0 +1,36 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D73ÑC92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signnd message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thi*ÜHÜ˜ the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-TraMIME-Version: 1.0
+ContentDTM4MTIzMT5Obj13cPu
+wECLBnUGq0/N2CxSJE4f4BBGZ7VfFrliv boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello worIhvcNAQcnsfer-Encoding: base64
+Content-ime.p7s"
+
+MIcontent-transf%NOttTWVz620JNT2PzhiR4x9.0
+Content-Type: multipar19FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello worIhvcNAQcnsfer-Encoding: base64
+Content-ime.p7s"
+
+MIcontent-transf%NOttTWVz620JNT2PzhiR4x9.0
+Content-Type: multipart/si"ned; prëãêúê---applic
+at

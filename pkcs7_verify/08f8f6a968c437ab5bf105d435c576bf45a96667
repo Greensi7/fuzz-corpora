@@ -1,0 +1,14 @@
+MIME-Veion: 2.0
+Content-Type: multipart/signed; proto="sha-512"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+gned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature;ame="smime.p7s"
+
+MIIFWgYExADALBgkBwGgg
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

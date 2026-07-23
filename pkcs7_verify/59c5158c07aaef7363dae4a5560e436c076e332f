@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smitype=sign ed base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MHAGCSqGSIb6DQEHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAKCAMIIE+DCCBGGg
+AwIBAgIQaGSNzE2MjMxMTI5WhcNOTYwODE1MDAw
+MDAwWjANBgkqhkiG9w0BavjvI2wKS8/Psp2prBr84+Tk4FAKRmS8Zzh1guxgvP
+b+xSu/jH0gAAMYAAAAAAAAAAAA==

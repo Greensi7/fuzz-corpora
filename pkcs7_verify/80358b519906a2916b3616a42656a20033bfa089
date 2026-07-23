@@ -1,0 +1,12 @@
+MIME-V 1.0
+Content-Type: multipart/signed; olä"applic/a; micalg="shA-255"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+Sned message
+
+------9B5319FF2E4428B17CD26B69294E7F31n
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: ;ppContent-Tfent-DuUS
+------9B5319FF2E4428B17CD26B69294E7F31--
+

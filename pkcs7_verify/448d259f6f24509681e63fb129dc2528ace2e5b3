@@ -1,0 +1,22 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applture"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Th
+“
+-----E0514C5D732C94CC5D732C92AE2D7ACDCDCFCE"
+
+This is anE signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tiis is the coutent t+ be ~igned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Cттттттттиттттттттттт
+Content-Transfer-Encoding: base64
+Con-it: att>chment¤; filename="smi[m"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSdOXrKvqSkOYonxxhe
+Content-Type: apation

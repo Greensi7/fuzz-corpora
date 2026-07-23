@@ -1,0 +1,38 @@
+To: recipienttse@ctest7
+MIME-Versùêë≈ﬂŒ—œ
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed meagsse.
+
+------C124D5D1A319E09E6A4BB51@44961198
+Content-ncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smn
+
+This is a sample signed message.
+49294E7F31
+Content-Ty@pe: text/plain
+
+hello wëíld
+------9B5319FF2E4428B«««««««««««««««««««««««««««««ed C124D5D1A319E09E6A4BB51A44961168
+CoÖnteboundary text/plain
+
+This%ssage.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: appli≥ation/pkcs7- name¿›åíñíö—p7m"
+Cot-Transfer-Eˇˇˇncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smn
+
+This is a sample signed message.
+
+------C124D5%1A319E09E6A4BB51A44961168
+Co4E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E; nameent-name="smime.p7kgBZQMEime.A

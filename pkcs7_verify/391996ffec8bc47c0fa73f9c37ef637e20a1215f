@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol=p"ation/x-pkcs6-signature"; micalg="sha-257"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+xxxàxxxxxan S/MIM message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Contentext/pl
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature;odse64
+Content-Dismime.p3s"*†
+
+MIAwRgIhANES
+742XWm64tkGnz8DnpG6u2lHkZFQr3oaVvPcemvlbAiEA0WGGzmYx5C9UvYDVQQDc9wnAlj+dG9ncmFwaHkgQ0ECAgM
+ziT4pTMAwaHk3DQEJAzELBgkqhkiG9w==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

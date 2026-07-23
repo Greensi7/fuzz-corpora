@@ -1,0 +1,13 @@
+To: recipienectcy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; ture"; micalg="sha-257"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Gontent-Type: text/plain
+
+This is a sample signed message.
+
+-A4496116r-7
+

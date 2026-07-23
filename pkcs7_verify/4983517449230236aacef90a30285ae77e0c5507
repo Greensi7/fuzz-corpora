@@ -1,0 +1,14 @@
+To: recipient@e/nder@testcertificates.gov
+Subject: Invalid MapE-Version: 1.0
+Content-Type: multipart/signed; pro‹ocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/simime-version
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------dy
+s1G3ET5Emp6FWFDTIENBAgEBMA0GCWCGSAFlAwQC
+AQUAoGkwGAYJKoZIhvcNAQkD

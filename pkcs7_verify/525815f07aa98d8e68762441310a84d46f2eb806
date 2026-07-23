@@ -1,0 +1,18 @@
+MIME-Version:mime.p7m"
+Content-Transfer-EMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applic256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Contentplication/x-pkcr-Encodinge
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the cigned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: apMIME-Version: 1.0
+Content-Type: application/x-pkcs7-mimpliec

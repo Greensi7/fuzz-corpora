@@ -1,0 +1,6 @@
+MIMon: 1.0
+Content-Type: applic0ation/x-pkcs7-mime; =s“™me-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attaent; filename="smime.p7m"
+
+MIICUAYJKoZIhvcNAQcCoIICQBggqhNTUDQQweHh

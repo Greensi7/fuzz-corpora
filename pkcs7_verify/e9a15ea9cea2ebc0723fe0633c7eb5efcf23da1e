@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatics7-signature"; micalg="sha-256"; boundary="----E&0E"
+
+This is a /nSMIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0315CC5D732C92AE2D7A3BACDCDCFCE
+Cgned-data; name="s0.0
+etnCont-T-Trsion: 1ÿÿÿÿÿÿÿ.0
+Content-Type: application/x-pkcs7-mime; smime-tMa; naƒappp

@@ -1,0 +1,17 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; alg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxÿÿÿÿÿÿxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxan EI SM/sMignad message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type:text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encodiœg: base64
+Content-Disposition: attachment; filename="smime.p7s"$†H†÷vcNAQcCoIIDAzCCAv8CAQExzANBglghkgBZQMEAgEFADALBgkq
+hkiG9ww
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

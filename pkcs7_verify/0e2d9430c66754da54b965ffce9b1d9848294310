@@ -1,0 +1,36 @@
+MIM-eVErsion: 1.0
+Content-Type: multipart/signed; protocol="applicatIon/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thontenbe signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nn S/MIME signed message
+
+------E7173CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+-me.p7s"
+Coáááááád message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thontenbe signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nn S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2A3BACDCDCFCE
+Content-Type: applture; name="smime.p7s"-
+Coááááááááááá: attachment; filenqme="smime.p7s"
+
+MIIFWgYJKoZIhSzCCBUcCAQExAD¹AŒŒŒŒŒŒŒŒŒe.p7s"-
+Coááááááááááá: attachment; filenqme="smime.p7s"
+
+MIIFWgYJKoZIhSzCCBUCAQExADAŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒsmime.p7s"
+
+MIIFWgYJKoŒZIhvcNAŒŒŒŒŒQcC

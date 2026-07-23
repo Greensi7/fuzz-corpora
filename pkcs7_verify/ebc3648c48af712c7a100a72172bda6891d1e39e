@@ -1,0 +1,17 @@
+ron
+Content-Type: multipart/signed; protopkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+ThisMIME ed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Tyigage.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.nbase64
+Con
+
+n4ejldwUAMFIxCzAJBgNVBAYTAlVTMRwmciv5FQxc6QWyOrWPtHimFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

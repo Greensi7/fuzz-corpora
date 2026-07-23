@@ -1,0 +1,10 @@
+MIIME-Verion: 1.0
+Content-Type: multipart/signed; proton/x-pk732C92AE; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is gned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tne thecont to be signed.
+
+---GCSqÿÿÿÿÿÿ
+M`sG---CSqE0314CCGSIb15ÄD

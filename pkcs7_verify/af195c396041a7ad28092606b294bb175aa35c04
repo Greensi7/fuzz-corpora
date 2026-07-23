@@ -1,0 +1,34 @@
+Tovalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed messège
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51AEwDwYDVR0kAQH/BAUwA4ABADime; smime-type=sig24D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample÷signed message.
+
+------C1in
+
+hello worl=nt-Type: application/x-pkcs7-signatureisposition: attachment; nameent-max-sizename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglgh124D5D1A319E09E6A4BB51A44961168
+Content-Type: apiclpation/pkcs7-si44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A449Ty@pe: text/plain
+
+hello worl=nt-Type: application/x-pkcs7-signatureisposition: attachment; nameent-max-sizename="smime.pcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEime.A

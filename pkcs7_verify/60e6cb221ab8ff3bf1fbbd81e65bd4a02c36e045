@@ -1,0 +1,5 @@
+MI:Mion/x-pkd; protocol="application/x-pkcs7-signature"; micaltipart/sign7-sig;nature"; micalg="sha-256"; boujdary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92tnp

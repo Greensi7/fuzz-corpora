@@ -1,0 +1,31 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatia-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; nTo: recipient@testcertificates.gov
+From: sender@testcertifiigned; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to beàŒ–˜‘š›Ñ
+
+------E0314CC5D732C92AE2D7A3BACDCDCFC@E
+Content-Type: application/x-pkcs7-signature; nTo: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: ame="smime.p7s"
+Conmulttent-Transfer-Encodingicates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version:$1.0
+Content-Type: ame="smime.p7s"
+Conmulttent-Transfer-Encodingipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary=: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIh"----Cv

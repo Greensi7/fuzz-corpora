@@ -1,0 +1,12 @@
+To: @testcertiFrom: sender@testcert 1.0
+Content-Type: multipart/signed; pbotocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+TÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿcqOAW2y/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+ContenpT-eyt: text/plain
+
+This is a sample signed message.
+
+------C062DWVGVzdCBDZXJ0aWZnXTyvi6Q
+UMEVPpMwfU/TCCAeWjAiMCACAWg

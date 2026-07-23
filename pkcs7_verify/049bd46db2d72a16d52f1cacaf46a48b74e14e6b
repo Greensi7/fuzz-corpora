@@ -1,0 +1,15 @@
+MIME-Vsion: 1.0
+Content-Type: multipart/signed; protsignatwre"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tgne&d.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; ngolbase64
+Content-Disposition: achment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

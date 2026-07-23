@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocolä"application/x-pk-c7ssignature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME sage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: ;pplication/x-EArz9kXCY4p
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

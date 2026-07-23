@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed meCDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Tre; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposie.p7s"
+Content-Transfer-Encoding: base64
+Content-smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smi2AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed meCDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Tre; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposie.p7s"
+Content-Transfer-Encoding: base64
+Content-smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7mDQYDVQ is thecontent to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Tre; name="smime.p7s"
+Contÿnt-Transfer-Encoding: base64
+Content-Disposie.p7s"
+Content-Transfer-Encoding: base64d.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Tre; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposie.p7s"
+Content-Transfer-Encoding: base64
+Cng: baseme.p7mDQYDVQ is the conten1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

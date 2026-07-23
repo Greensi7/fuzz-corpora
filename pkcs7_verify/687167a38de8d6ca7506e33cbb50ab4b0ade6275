@@ -1,0 +1,33 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C123D5D1A319E09E6A4BB51A44961168
+Conõõõõõõõõõõtent-Type: application/pkcs7-s smime-type=signed-data; name="smime.p7m"
+Consion: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sh•a-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an Sÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: textnt-nt-Type: ape-type=signed-data; name="sm4961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F3
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-DispositiDisp="smime.p7s.p7s"
+
+MIIDEgYJKoZIhvcJAQcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEime.A

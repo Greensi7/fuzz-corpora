@@ -1,0 +1,7 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Conten: attachment; filename="smime.p7m"
+
+MAAKCMIIEA+DCCBGGg
+AwIBAgMIME-VepbS1C223+yion: 1.rc+N1DANBgkqhkiG9w0BAQQFADBiMREwDwYDVQQH
+EwhJbnRlcm5ldDEXMdpe: k

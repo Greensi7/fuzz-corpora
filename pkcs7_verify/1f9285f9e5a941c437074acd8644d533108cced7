@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; prl="12"; boundary="---C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed mess
+------E031$CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0315CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7q"
+Contenundary="----E0314CC5D732C: basre

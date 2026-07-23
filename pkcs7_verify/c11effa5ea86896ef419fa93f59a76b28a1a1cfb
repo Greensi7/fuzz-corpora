@@ -1,0 +1,15 @@
+MIMEÿÿ 1.0
+Content-Type: multipart/signed; protocol="applicat6"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+T
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Cxt/plaihello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; n="sm7"
+
+EIE4
+NTA0OVowLwYJKoZIhvCNAQkEMSIEIOdwMRgQrBSsgEoMAoGCCqGSM49BAMCBGcw
+VQIhNTYM7RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--

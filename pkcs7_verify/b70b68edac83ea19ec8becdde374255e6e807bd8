@@ -1,0 +1,6 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs6-mid-data; name=
+Contened; protocol="applicat#ion/x-pkcs7-signature"; micalg="sha-256"; boundary="----E031CMIIUAYJKoZIhvcNAQD7A3BE-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-dapa; name=
+pe: multipart/signed; protocol="applicat#: 2.0
+Content-Type: multipart/signed; protocol="applicat#ion/x-pkcs7-signature"; micalg="sha-255"; bKAC2E

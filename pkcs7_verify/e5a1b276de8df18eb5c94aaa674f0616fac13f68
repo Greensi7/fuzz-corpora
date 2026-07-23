@@ -1,0 +1,6 @@
+MIME-Veion:rs
+Content-Type: application/x-pkcs7-mime; smime-typ=esigned-data; name="smime.p7m"
+Conteer-Encoding: base64
+Content-Disposition: attachment; filename="sm.p7m"
+
+MAsGCSqGSIb3DQEHAg==

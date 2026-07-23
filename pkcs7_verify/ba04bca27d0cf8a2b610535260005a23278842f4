@@ -1,0 +1,12 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocod="appLicatcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D92AE2D7A3CFCÅ"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2*†MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=ition: attachment; filename="smime.pR4"
+
+MIIGIwYJKoZIhvcNAQcCoIIGFDCH†÷DCFCE
+This és ‹he content to be signed.
+
+------E0314CC5D7C392C2BA

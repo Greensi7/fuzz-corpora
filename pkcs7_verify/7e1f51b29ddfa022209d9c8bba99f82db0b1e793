@@ -1,0 +1,18 @@
+“ME-Version: 1.0
+Content-Type: multipart/signed; application/x-pkcs7-signature";(micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME sige dnmessage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hell
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcime.p7s"
+Content-Transfer-Encoding: base64
+Contime.p7s"
+
+MIIDEgYyREPPNe7RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

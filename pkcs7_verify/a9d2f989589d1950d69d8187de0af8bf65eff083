@@ -1,0 +1,18 @@
+Mapplication/x-pkcs7-mime; smimd-type=signed-data; name="smim].p7m"
+Conten: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-255"; bÿ 1.0: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-255"; bÿ 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="siem.mp3m"
+Content-Tran-typeontent-TypeMIME-VeonC:1.
+ e;.
+ 0onttyont".
+ 0o.
+ntentie;.
+ 0Versi-Veri
+ 0ont,ngentimersionC1..
+ 0$nte"-V: multipart/signed; protocol="application/x-pkcs7-signature"; mic¾lg="sha-255"; bÿ 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="siem.mp3m"
+Content-Tran-type=signing: bare"; micalg="sha-t,ng===255"; boundaryÄ="----9B5319B17CD26B69294E7F31"
+
+Thison: a
+tDIIBme="sm

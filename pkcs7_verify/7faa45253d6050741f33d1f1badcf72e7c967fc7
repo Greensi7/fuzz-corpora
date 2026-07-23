@@ -1,0 +1,15 @@
+MI0
+Content-Type: multipart/signed;otocol="application/x-pgnaa-475"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/ME signed meU
+ssage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Conrld
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name=S5m"
+
+MAsGCSqGSIb3DQEHAgnt-Di=
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

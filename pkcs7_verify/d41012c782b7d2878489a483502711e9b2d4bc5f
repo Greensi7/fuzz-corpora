@@ -1,0 +1,17 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="ap5"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an Ssigned message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Conueain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Cone: application/x-pem"
+
+MAsGCSqGSIb3DQEHAgnt-Dis+BVvErcc6uUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

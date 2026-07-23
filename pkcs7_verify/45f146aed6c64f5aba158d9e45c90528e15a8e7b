@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pre";icalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIMEmessage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE732BCDCFCE
+Contee
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This be signed.
+
+---OOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

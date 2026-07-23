@@ -1,0 +1,12 @@
+MI*†H†÷n: 1.0
+Content-T9œpe: aps7-mime; smime-rQpkmOO-Version: 2.0
+Content-Type: multipart/signed; protocol="application/x-pkcs4-content-mime-versiont-nt-56"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is ttent to be signed.
+
+------Edmlk
+dsIFFWN0Y-NjcmliZXIXDTk2MDcwMTE4MzA0MFoXDTk3MDcwMTAwMDAwKFowDQYJ
+KoZIhvcNAQEation/¦-pkcs7-signature; Cn

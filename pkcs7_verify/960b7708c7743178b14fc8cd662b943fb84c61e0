@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+igned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-si-Encoding: base32
+Content-Disposition: atent-Disposition:1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMB3vo2TeN7VYmNJsX+fA4sÿÿÿÿÿÿÿZzIYbeSi9
+ps7GZruiRcKgqgUj1l8HjIGMHqd9lccchk/BYyAGxAbgGisntvfJdPZO09wG8rHh
+eS6FYkkXAKBO49WbhE9aVLJH0zg
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

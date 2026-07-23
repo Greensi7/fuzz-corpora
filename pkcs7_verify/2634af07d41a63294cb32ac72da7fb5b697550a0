@@ -1,0 +1,27 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="appl256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIMwE signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-sip7s"
+Content-Transfer-Encoding: base64
+Content-Dispose64
+Content-Disposition: attachLBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1Ment-Dispose64
+Content-Disposition: attachLBgkqhkiG9w0BBwGgggLuMIIC
+6jCwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaMBUxEzARBgNVBAMMClBvQyU+BTaWduZXIwggEiMA0GCSqGSIb3DQEBPAQUA
+A4IBDwAwggEKAoIBAQupmIlclvm-MDgx
+MDIwNDhaMBUxEzARBgNVBAMMCl@vQyU+BTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+--IBDwAwggEKAoIBAQDSSu/gupmIlclvm--TMHÿ
+OrCqmB8NRTjAMoI//MPJrnFXYp
+FjDPMk7Y/kCcHztudaIvADkoQAw
+FTETMBEAwwKUGF4GSqv8BRUgZTUvwEk5+aXyv
+zJxn4I7mMbDhlNCMHcVtGdtA+2UOEuvdGfuEil!zPsV8D#zM1K3Œª·—õš¬ÉFYkkXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

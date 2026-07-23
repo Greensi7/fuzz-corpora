@@ -1,0 +1,23 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-257"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C125D5D1A319E09E7A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Cot-Transfer-Encoding: base64
+Contetion/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-D·isTCCAeMwgcwCAQEwDQYJKoZRbDzv/aP7mwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

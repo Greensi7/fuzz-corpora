@@ -1,0 +1,17 @@
+MIþME-Version: 1.0
+Content-Type: multipart/signed; protocol=ÿ"application/x-pkcs7-s&ignature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S6MIME sgnied message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to bt-Trane signed.
+
+------E0628eTp: application/x-pkcs7-mi----E0314CC5D732C92A
+FTETMBEGKUG9DIFNpZ25lcjAeFw0yNjA1MDgNVBt-Transfer-Encoding: base64
+Content-Disposition: attachnme;t fFSzCCB
+FTHpA7
+FQBMav9/27em2xtWMEoSEPrpDKjilgn9F5xRv
+Wb1ZpWM7V4pAIYiYxusdOcg7OICDjv8h0LO25vG1bC1XyOZ3/OLkT7QU7+UGcXLK
+CGo2M+cwvQsdBQzwt-Tran
+FTETMBEGA1UEAMDgxMDIwNDhaMC8GCSqGSIb3DQEJBDEij4U3vo2TeN7VYmNJsX+fA4sZzIbYSei9
+ps7GZruiRcKDCFCE--,

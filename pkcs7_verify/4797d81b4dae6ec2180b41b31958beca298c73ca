@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x;pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME rigned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thype: app
+FTETMBE
+

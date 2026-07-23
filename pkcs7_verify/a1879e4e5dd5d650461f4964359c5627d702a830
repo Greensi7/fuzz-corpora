@@ -1,0 +1,32 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/56"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the contenXt to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Contenшнt-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w6BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEOV
+oovCSmY7OqowupA7J+4dcsnRjFqgZECctHhAfk+PAgMBAAGjMjAwMB0GA1UdDgQW
+BBRZlupXNYq4fny0SE76sr/CdQ2DUTAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3
+DQEBCwUAA4IBAQANOlttTWVz620JNTrPzhiR4x9+5UiF4GSqv8BRJQFj3Xh7fsUp
++3GDs9M27f4FVh3utJsjt7Sa9ZWLpBVdgjGBwGLAtPsoYMjhnUgZTUvwEk5+aXyv
+zJxn4I7mMbDhlNCMHcVtGdtA+2UOEuvdGfuEilpzPsV8DzM1K3xU5bSWoo0BRFKK
+srHkyEfxCFPAQOcX80ZbMO6zdcXeJjC6mQXGqy2aqeQob0vuSZJ7QHZBlRjY5YHR
+wWlIqG8G3Eist16iTqdX2PQFZT1/QAEQ/LnXARTUUjUroccdci8YNASoeHDpIb3DQMC
+AgIAgDANBggqhkiG9w0DAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDANBgkq
+hkiG9w0BAQEFAASCAQBIpl7U2j4YiU1vdZHyx2dCK41ZahtTVOB4RVJcrmopgans
+fICdkSf0TVbdqc13++bYn4i1b2R2os5YIkoGxdrM5aZB7KF9r1xwgrendTF4/BwP
+gQq2khNtKebv9Yr0kOPynFIsgx5BHk99wrzfwidJUFuJJgQ9W0YOf7EGkbnZvPT+
+hV0aeLmJAb5jjWhbDciqUjR3O23JQhzVj4U3vo2TeN7VYmNJsX+fA4sZzIbYSei9
+ps7GZruiRcKgqgUj1l8HjIGMHqd9lccchk/BYyAGxAbgGisntvfJdPZO09wG8rHh
+eS6FYkkXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

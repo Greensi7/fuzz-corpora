@@ -1,0 +1,27 @@
+MIME-V.0
+Con-Version: 1.0
+Content-Type: multipart/signed; protocolplpa="icatioÿÿÿÿÿÿÿÿ256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME sigssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tnt to be sned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: ication/message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tned-dat~me.ssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thi.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+C
+essage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Tis isnprotocoled.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+C: a=

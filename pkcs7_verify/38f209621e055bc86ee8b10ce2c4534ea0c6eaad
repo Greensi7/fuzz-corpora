@@ -1,0 +1,13 @@
+To: re¶cicates.gov
+Sub1.0
+Content-Type: multipart/signed; protocol="ap/pkcs3-signature"ˆˆˆˆˆˆˆˆˆˆˆˆ micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+Tned message
+
+------C124D5D1A319E09E6A4BB51A44961168
+;
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature;UdIAAGCaP7mwFu7HTU47u2AW=
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

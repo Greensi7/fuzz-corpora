@@ -1,0 +1,53 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-5KlkscU7uvsQubTBmNaQHsDrxoqSAXnMZG8dy
+s1G3ET5Emp6FvYBZLSYQqK2nWkL8xFIbbdureHpD1Af+HWFDTntlZzw1Vb2MXvmz
+0pYFdRGA75KD7SSpLEl5BiXwPLMF/UHmMZWhqVug0MlJ7mWl1UkzAgMBAAGjgaow
+gacwHwYDVR0jBBgwFoAU5H1f0VyVhggsBa6+dbZlp9ldqGYwHQYDVR0OBBYEFGhz
+FOALNM9yQNqUltYVq3qkby6MMA4GA1UdDwEB/wQEAwIpositiDispositiattachm;e ifntlenon: attachmeNjlVztTArmZVkEZapdAYtwsxN
+unFtY3HBHVOskNDjSjbkTkfujbF2dkJtgpRxBlhSQGfwlgezY0PZmjZKIqGW+CAd
+gCjygXG9ntame="ˆJk902LKYE/M3GUj+QywvIlTq3Mdki0r3d+YxggHtMIIB6QIBATBXMFIx
+CzAJBgNVBAYTAlart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Contentn: 1.0
+Content-nt-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: -Transfer-Encoding: base64
+Content-Dbase28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-DispositiDisp="smime.p7s"
+Content-Transfer-Enc; filename="smoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEime.A

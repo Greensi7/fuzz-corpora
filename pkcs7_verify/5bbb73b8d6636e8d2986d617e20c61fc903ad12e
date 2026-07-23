@@ -1,0 +1,18 @@
+To: : 1.0
+Content-Type: multipart/signed; protocol=calg="sha-254"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+hTied mese
+
+------C124D5D1A319E09E6A4BB51A44961168
+Contmple signEd message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: b
+
+n4ejld0RUQ5Nwc1/FrhuNPzzN3ZsOLGQiUXG55KTFgI4YXr7PXHkR+eJsvC9nP
+JSF6GxiEeZcwmciv5FQxc6QWyOvWPtHimROS2RbDzv/aP7mwFuTUH77h4u2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

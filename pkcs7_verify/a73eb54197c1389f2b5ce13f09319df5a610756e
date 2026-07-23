@@ -1,0 +1,20 @@
+T
+Content-Type: multipart/signed; protoiture"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This bs Ed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; natachment; filsmime.p7s"
+
+n4ejld0RUQ5Nwc1/FSGIAw5lf6GBgNVBAYTAlVTMR8wHQYDVQQKExZUZXN0
+InRpZmljYXRlcyAyMDExMSIwIAYDVQXBwaW5nIEZyb20gYW55UG9s
+aWN5hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

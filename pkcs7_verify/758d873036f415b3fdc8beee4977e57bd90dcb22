@@ -1,0 +1,13 @@
+MMEI-Versi 1.0
+Content-Type: multipart/signed; protocol="i"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+Thi‚  message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Cot/plain
+
+hello rl+d
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: as7-sigvatu="smime.p7s"
+Content-TransfEncod‹MIME-Version: 1.0
+Content-Type: gt:

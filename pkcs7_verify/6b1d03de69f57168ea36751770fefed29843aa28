@@ -1,0 +1,18 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIAGCSqGSIb3DQEAHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAKCAMIIE+DCCBGGg
+AwIBAgIQaGSF/JpbS0C223+yrc+N1DANBgkqhkiG9w06n7
+Bk55A2wvAMGo7+kKTZ+rHaFDDcmq4O+rzFri2RIOeGAncj1IcGptAQhvXoIhFMG4
+Jlzg1KlHZHqy7D3jex78zcSU7kK8GA1UEBxMISW5k
+dWFsIFN1YnNjcmliZXIXDTk2MDcwMTE3MzA0MFoXDTk3MDcwMTAwMDAwMFowDQYJ
+KoZIhvcNAQECBQADgYEAGLuQ6PX8A7AiqBEtWzYtl6lZNSDI0bR5YUo+D2Jzkw30
+dxQnJSbKXEc6XYuzAW5HvrzATXu5c19WWPT4cRDwmjH71i9QcDysWwf/wE0qGTiW
+I3tQT0I5VGh7jIJD07nlBw3R4Xl8dH9kr85JsWinqDH5YKpIo9o8knY5n7+qjOow
+ggEkMIGOMA0GCSqGSIb3DQEBAgUAMF8xCzAJBgNVBAYTAlVTMRcwFQYDVQQKEw5W
+ZXJpU2ln-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-DMIME-Version: 1.0
+Content-Type: multipart/signed; prisposition: attachmotocol="application/x-pkcs7-signature"; micalg="sha-256";e bonun

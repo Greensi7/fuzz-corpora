@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicati"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; application/x--mime; smimentent-me.pS5m"
+
+MAsGCSqGSIb3DQEHAgnt-DisposBBGZ7VfF*†H†÷++Gve0oQ+0uctuhrNQ+WxRuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

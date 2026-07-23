@@ -1,0 +1,15 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="multi-256"; boundary="eS--E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed messageúõ------E0314CC5D73t-Transfer-cEodning: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoI*†H†÷CAQExADAAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIB*†H†÷hkMIME-Version: 1.0
+Content-Ty19FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Contepe: application/x-pkcs7-mime; smime-A0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEK÷oIBAQCo/4lYYYWu3tssD9Vz++K3qBt6dWAr1H08c3a1rt6T
+LB4R38kkG3JHPSKOM2foVJcrmopganos

@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smiMe.p7m"
+Content-Transfer-Enco뭝ng: base32
+Contet-Type: application/x-pkcs7-signature; name="smime.p7s"
+Conten컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴�/MPJrnFXYp
+FjDPMk7Y/kCcHztudaIvADkowaFtOm4oMinQFhjwCNCo5K5WrrlAitnpcd5QH2nA
+iVZXjjohQUJEd7n33AGqTwo5EGaCK+alAZL7tA7bdhNi/aZ33L3bUNYqoHbXiNsE
+u1tj8frLfIjduOt0TMPSOrrFjjEsrL3T3tg+HmxpalDHz7E6o9zJu0wlk8bcR2Xk
+mpX8RdYCu7K9m39N1F2WKa9WJh24NQLpnt-Disposition: attachment; filename="smime.p7m"
+
+MAsGCSqGSIb3횿EHAg==

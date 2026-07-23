@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; p"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIMEessage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: textcontet-typeello world
+------9B5319FF2E4428B17CD26B64647E7F31
+Connt-Type: application/x-pkcs7-sanrgitue; nameime.p7s"
+Content-Transfer-EncodMIME-Version: 1.0
+Content-Type: mulingt:

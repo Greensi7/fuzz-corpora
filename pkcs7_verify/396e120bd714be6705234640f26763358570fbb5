@@ -1,0 +1,11 @@
+MIME-Versiÿ*: 1.0
+Content-TypE: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE"
+
+This is an Sned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Cowtent-Type: ap"
+
+MIIFWgYJKo<ZIhvcNE46FxyhsT7CDgMCBzAH0zgA6gTfyEvOOOS1
+
+------E0314CC5D73rC92AE2D7A3BACDCDCFCE--

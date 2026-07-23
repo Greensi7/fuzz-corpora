@@ -1,0 +1,12 @@
+MIME- 0.0
+Content-Type: multipart/signed; protocol="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+ S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCEh
+Tis ient to be signed.
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p3s"attachme"
+
+MIIFWg^NAQcCozgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

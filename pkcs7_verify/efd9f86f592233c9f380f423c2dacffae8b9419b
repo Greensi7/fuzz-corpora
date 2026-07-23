@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="aha-256"; boundary="----E0314Ä¼5D732ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿDCFCE"
+
+This is an S/MIME signed mipart/signed; protocol="aha-256"; boundary="----E0314CC5D732ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿC92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the contejt to be signed.
+
+----Transfer-Encoding: base64
+CoMIIBfQIBATAtMCixCzAJBgNVBAYTAlVTMRgw
+FgYDVQQDDA9jcnlwdG9ncmFwaHkgQ0ECAgMJMA0GCWCGSAFlAwQCAQUAoIHkMBgG
+CSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUyMDE7ntent-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G12lnbmVyAhQvkTjoXHKGxPsLcbU1Lbs61HtcCjANBglghkgBZQME
+AgEFAKCB5DAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwqhkiG9w0CAgUAMCgGCSqG
+SIb3DQEHAaAbBBlFdmŠVyeW9uZSBnZXA3BACDCDCF~CE--

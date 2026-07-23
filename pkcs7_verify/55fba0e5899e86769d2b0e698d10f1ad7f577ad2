@@ -1,0 +1,16 @@
+MIME-Version:-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-ha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This Uan S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thistent to beﬂsigned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content="sge
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to bened.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Contensignature;ent-Dispositione: aAg==

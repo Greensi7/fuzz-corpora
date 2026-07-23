@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-typransfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p9m"
+
+MIIGion: 1.0
+Content-Type: a; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIIGIwYJKoZIhvcNAQcCoIIGFDCCBhACAQExDzANBglghkgBZQMEAgEFADBcBgor
+BgEEAYI3AgEEoE4wTDAXBgorMIBME-Version: 

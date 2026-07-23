@@ -1,0 +1,16 @@
+MIsfer-EMIME-Version: 1.0
+Content-Type: multipart/signed; pùrotocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This 
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicationt-Disposigned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+g==

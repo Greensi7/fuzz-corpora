@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Typpe=si
+Content-Type: multipart/signed; protocol="applicatie"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/IME sig
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the cont d 
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This ie signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: appkic
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-icsfer-En=

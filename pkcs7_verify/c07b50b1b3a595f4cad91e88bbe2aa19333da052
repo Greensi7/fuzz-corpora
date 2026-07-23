@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; ......................................."application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the"sha-256"; boE0314CC5D732C92AE2AQExADALBgk
+MDIwNDhPizy1uA
+tza3HebeiJaSn: 1.0
+etnppIJHe: z

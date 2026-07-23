@@ -1,0 +1,14 @@
+MÉME-Version: 1.0
+Content-Type: multipart/signed; protoure"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+Thisssage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This 3s the togned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smimex-pk
+
+MIIFWgYJKoZIhgAO6TgOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

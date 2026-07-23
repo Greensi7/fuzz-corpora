@@ -1,0 +1,20 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="aption/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an Se signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: app: base64
+to bes ignedº.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+ContenA3BACDCDCFCE
+Content-U:
+:
+mime.p7s"
+Conding:$base64
+ContenkpositiQBKjAL
+BglghkgBZQMEARYwCwYJYIZIAWUDBAECMAGCCqGSIb3DQMC
+AgIAgDANBggqhkiG9w0DAgIsntvfJdPZOBO49WbhE9aVLJ1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

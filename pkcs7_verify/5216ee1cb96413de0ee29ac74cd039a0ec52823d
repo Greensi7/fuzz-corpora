@@ -1,0 +1,35 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="kcs7-signature"; micalg="sha-256"; boundary="----E3BACDCDCFCE"
+
+This is an S/MIME d.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signa1o
+0.tC nte="appA3BACDCDCFCE"
+
+This is an [/MIME si\ned message
+
+------E031gned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signat 1.0
+Cont/Sigprotocol="appA3BACDCDCFCE"
+
+¬—–‘ is an S/MIME signed message
+
+------E0313CC5D732C92AE2D7A3BACDCDCFCE
+This is the cuntent to be signed
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1¼¬27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+M@IwNd message
+
+------E0313CC5D732C92AE2D7A3BACDCDCFCE
+This is the cuntent to be signed
+6jCCAdKgAwIBAgIUL2E46FxyhsT7C3G1¼¬27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGAgxMDIwNDhaFw0yNzA1MDgx
+M@IwNDhaMBUxEzARBg0NVBAMMClBvQyBTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+AclvmTMHiqOrCqmB8NRTjAMoI//MPJrnFXYp
+FjD·²”È¦Ð”¼cHztudaIvADkowk
+mpX6RdYCu7K9m39NOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

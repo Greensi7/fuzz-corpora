@@ -1,0 +1,23 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+ThisME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the cont.
+
+------E0314CC5D14CCD9522C37AE2D7A3BACDCDCFCE"
+
+This  message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to igned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-T}pe: application/x-pkcs4-signature; name="smime.p7s"
+Content-Transfer-Encoding: bae64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIMIME-Version: 1.0
+Content-Type: applicationBA/x-pgIUL5E4kcs6F

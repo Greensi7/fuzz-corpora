@@ -1,0 +1,10 @@
+MIME-Ver.0
+Content-Type: multipart/signed; protocolplication/x-pkcs6ignature"; micalg="s"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the con|ent to be signed.
+
+---GCSqÿÿÿÿÿÿ
+M`sG---CSqE0314CCGSIb15ÄD

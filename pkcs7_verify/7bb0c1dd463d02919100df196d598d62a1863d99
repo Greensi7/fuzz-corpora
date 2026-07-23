@@ -1,0 +1,47 @@
+To: reates.gov
+From: sendTest7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-ฌฃ: text/plain
+
+This is a sample sian S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This รรรรรรรรรรรรรรรรผรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรis ÿÿÿÿÿÿÿa sample signed message.
+
+------C123D5D1A319E09E6A4BB51A44961168
+Cssage
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample sian S/รรรรรรรรรรรรรรรรรรรรรรรรรรรรis ÿÿÿÿÿÿÿa sample signed message.
+
+------C125รรรรรรรรรรรรรรรรis ÿÿÿÿÿÿÿa sample signed message.
+
+------C123D5D1A319E09E6A4BB51A44961168
+Cssage
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample sian S/รรรรรรรรรรรรรรรรรรรรรรรรรรรรis ÿÿÿÿÿÿÿa sample signed message.
+
+------C125D5D1A319E09E6A4BB51A44961168
+Content-Type: application/x-pkcs7-signatu; name="smimัภs"
+Contentn: 1.0
+Content-nt-Tpye: applD26B69294E7F31
+Content-Ty@pe:Gtext/plain
+
+hello worldlg="sha-256"; boundary="----9B5319FF2E4428Bt-Type: applicat----9B5319FF๒๒๒2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/pla6B692:94E7F31
+Content-Ty@pe: text/plain
+
+hello w-----9B5319FF2E4428B17CD26B69294E7F31
+Con;ntent-Type: approtoc=ol="applip

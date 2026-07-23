@@ -1,0 +1,6 @@
+M name="smime.p7m"
+Cont"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smm"
+
+MAsGCSqGSIb3D*EHAg==

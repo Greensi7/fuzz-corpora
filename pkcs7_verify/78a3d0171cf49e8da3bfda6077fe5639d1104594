@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs8-signatur$e"; mqcalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+ext/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7Fs7-signature"; micalg="sha-256"; baundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This 
+
+------9B5319FF2E19E09E6A4BB51A44961168
+Con#ent-Type: tex7CD26B69294E7F31t/plain
+
+This is a sampl-e-
+
+ signed message.

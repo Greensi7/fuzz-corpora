@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----ECFCE"
+
+This is an S/MIME signed message
+
+------EZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBC
+6jCCAdKgAwIBAgIUL5E23FxyhsT7C3G1NS27OtRYJKoZI`†Ht†øBhvcNAQELBQAw
+FTETMBEGA1UEAwwKUGˆ9¼¶FNGisntvfJdPZO09wG8rHh
+eS6Fchment; filename="smime.p7m"
+
+MAsGCSqGSIb3DQE0314CC5D732C92AE2D7A3BACDCDCFCE--

@@ -1,0 +1,18 @@
+To: @testcertifasitec.gov
+From: sender@testcertipn: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E7A4BB51A44961168
+Content-TypeBAQsFADBFMQsw
+CQYDVQQGEwJVUzEfMB0.A1UEChMWVGVzdCBDZXJ0aWZp0bUPL5Aoi/u5jDH9Npgb2OqnXTyvi6QUMEVPpMwfU/TCCAeWjAiMCACAWgXDTcontent-transfer-entGXR/6/eZXVQmu1NjlVztTArmZVk=ZapdAYtwsxN
+unFtY3HB==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

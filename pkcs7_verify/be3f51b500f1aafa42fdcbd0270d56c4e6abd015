@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs56"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is xxxxxxxxxxxxxxxxxxxxxent-Type: appnication/x-pkcs7-sigContent-DisposiTion: attxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxan S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: text/plain
+
+he[llo world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: appnication/x-pkcs7igContent-Disposition: =attachment; filename="smime.p7s"*†H†÷	
+
+AnMQswCQYD
+VQQGEwJVUzEYMBYGA1UEAaqNaFmime.p7s"*†H†÷	
+
+AnMQswCzt8EiImBB+ODosDMoZGPpgkR3q4dC5LaSF+X55ktuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

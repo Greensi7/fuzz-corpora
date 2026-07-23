@@ -1,0 +1,15 @@
+MIME-Version: 1;0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is a\n S6MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+Ckntent-Type: application/x-pkcs7-signature; name="smime.name="smime.p4s"
+ContenZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0CCAdKgAwIBAgIU----C124D5D1A319ä09E6A4BB51A44961168hvcNAQELBQAw
+FTETMBEQAwóê
+FTETMBEGAwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBUxEzARBgNVBAMMClBvQyBTaWduZXIwggEÇMA0GCSqGSIb3DtvfJdPZO09wG8rHh
+e-E0314CC5D732C92AE2D7A3BACDCDCFCE--,

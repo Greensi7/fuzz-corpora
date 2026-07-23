@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smimefilename="smime.p9m"
+
+MIIGion: 1.0
+Content-Type: a; name="smime.p7m"
+Content-TransRQr-Encoding: base64
+Content-Disposition: attaename="5555555555555555555555555555p7m"
+
+MIIGIwiiiiiiiiiiiiiiiiIGFDCCBhACAQExDzANBglghkgBZQMEQgEFADBcBgor
+BgEEAYI3AgEEoE4wTDAXBgorMIBME-Verç†on: 

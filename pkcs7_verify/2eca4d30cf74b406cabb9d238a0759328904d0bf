@@ -1,0 +1,18 @@
+MI*†H†÷n: 1.0
+Content-Tyœpe: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfercno-dEing: base64
+CoHVhbCBTdWJz
+Y3JpYmVyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2FKbPTdAFDdjKI9Bv
+qrQpkmOOLPhvltcunXZLEbE2jVfJw/0cxrr+Hgi6M8qV6r7jW80GqLd5HUQq7XPy
+sVKDaBBwZJHXPmv5912dFEObbpdFmIFH0S3L3bty10w/cariQPJUObwW7s987Lrb
+P2wqsxaxhhKdrpMLSBJbmMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs4-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------Edmlk
+dWFsIFN1YnNjcmliZXIXDTk2MDcwMTE3MzA0MFoXDTk3MDcwMTAwMDAwKFowDQYJ
+KoZIhvcNAQEation/x-pkcs7-signature; Cn

@@ -1,0 +1,27 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="appl256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIMwE signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+To be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: app-Trag: base64
+Content-Dispose64
+Content-isposiwGgggLuMIIC
+6jCCAdKgAwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0Ment-Dispose64
+ConteDisposition: attachLBgs7-sip7s"
+Content-Transfer-Encoding: base64
+Content-Dispose64
+Content-isposiwGgggLuMIIC
+6jCCAdKgAwIBAgIDQYJKoZIhvcNAQELBQAw
+FTETMBEGA2UEAwwKUG9DIFNpZ25lcjAeFw0Ment-Dispose64
+Content-Disposition: attachLBgkqhkiG9w0BBwGgggLuMIIC
+5jCwIBAgIDQYJ!KoZIhvcN
+FTETMBEGA2UEAw1MDgxMDIwNDhaMBUxEzAIvADkoQAw
+FTETMBEAwwKUGF4G
+zJxn4I7mM6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

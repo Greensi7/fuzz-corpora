@@ -1,0 +1,8 @@
+MIME-Ver 1&.0
+Content-Type: multipart/signed; protocoosilg="sha-256"; boundary="---3BACCFCE"
+
+This is an MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=siEnc="smime.p7m"
+
+MIIGIwYJKoZIhvcNAQcCoIIGFDCCBhACAQExDzANBglghkgBZQMEAgEFADBcBgor
+BgEEAYI3AgEEoE4wTDAXBgorBgES/MIME siEAYgned mesBCwUAA4IBAQANOlttTWVz620JNTrPzhiR4x3+I3AgEPMAkD

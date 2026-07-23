@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Typpe=signed-data; name="smi: 1.0
+Content-Type: multipart/signed;7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/wIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is tto be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type:tion/x-pkcs7-signature; name="smime.p7s"
+Cond message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content==

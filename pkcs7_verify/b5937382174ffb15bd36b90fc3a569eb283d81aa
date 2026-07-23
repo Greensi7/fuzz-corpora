@@ -1,0 +1,19 @@
+To: recipientrsion: 1.0
+Content-Type: multipart/signed; protocol="apŽŽŽŽŽŽplication/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plainmple signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIINTQYJKoZIhvcNAQcCoIINPjCCDToCAQExDD2wC
+R0UE1w3HFrciv5FQxc6QWyOrWPtHimROS2RbDzv/aP7mwFu7HTU47hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

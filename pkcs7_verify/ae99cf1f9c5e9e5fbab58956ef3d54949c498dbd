@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="apsha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S6MIME signe3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-sFWgYJK
+FTETMBEGA1UEAwwKUG9DIFFpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBxyhsT7C3G1NS27O0	AowD;YJKoZIhvcNAQELBQAw
+
+MIIFWgYJKoZIhvcNA
+FTETMA1UEAwwKU√ŒÀºC5D732C92AE2D7A3BACDCDCFCE--,

@@ -1,0 +1,17 @@
+To0
+Content-Type: multipart/signed; protocol=calg="sha-254"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+hTied m
+
+------C124D5D1A319E09E6A4BB51A44961168
+Contmple signEd message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; na: b
+
+n4ejld0XHkR+eJsvC9nP
+JSF6GxiEeZ6QWyOvWPtHimROS2RbDzv/aP7mwFuTUH77h4u2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

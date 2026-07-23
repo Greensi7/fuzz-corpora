@@ -1,0 +1,15 @@
+MIME-Version: pe=si
+Content-Type: multipart/signed; protocol="applicatie"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This iseME sig
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is e cont d 
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This ie signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: appkic
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Ty appfer-En=

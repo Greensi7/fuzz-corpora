@@ -1,0 +1,88 @@
+To: ificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="applicatioe"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S????????/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-GA1UEBhMCVVMxHzAdBgNVBAoTFlRlc3QgQ2VydGlmaWNUltYVq3qkby6MMA4GA1UdDwEB/wQEAwIBBjn
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Contentn: 1.0
+Content-nt-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: -Transfer-Encoding: base64
+Content-Dbase28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-DispositiDisp="smime.p7s"
+Content-Transfer-Enc; filename="smoding: base64
+Content-Disposition: attachment; file61168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-GA1UEBhMCVVMxHzAdBgNVBAoTFlRlc3QgQ2VydGlmaWNUltYVq3qkby6MMA4GA1UdDwEB/wQEAwIBBjAPBgNVHRAwIBMAEwDwYDVR0kAQH/BAUwA4ABADANBgkqhkiG9w0BAQsFAAOCAQEACkuU
+lU5OLnBP9XTQLJdC4cZ2L1LbaCvAnUSD5ZU1UyDAPHcs+YsbjerZT1Alt/KqnVyD
+9pvontent-MIME-Versiont-nt-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applišatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base28
+Content-DispositiDispositiattachm;e ifntlenon: attachmeNjlVztTArmZVkEZapdAYtwsxN
+unFtY3HBHVOskNDjSjbkTkfujbF2dkJtgpRxBlhSQGfwlgezY0PZmjZKIqGW+CAd
+gCjygXG9ntame="ˆJk902LKYE/M3GUj+QywvIlTq3Mdki0r3d+YxggHtMIIB6QIBATBXMFIx
+CzAJBgNVBAYTAlart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Contentn: 1.0
+Content-nt-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-d‡ta; name="smime.p7m"
+Content-Transfer-Encoding: -Transfer-Encoding: base64
+Content-Dbase28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signatureisposition: attachment; nameent-name="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAvigAQExDzANBglghkgBZQMEime.A

@@ -1,0 +1,46 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocture";lg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAMIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; namezCCAv8CAQExDzANBglghkgBZQMEAgEFADALBgkqIKoZIhvcNAwcwDgYIKoZIhvcNAwICAgCAMA0GCCqG
+SIb3DQMCAgFFBy1Xs4uFZER5vniYrH9OrAk
+Z6XdvzDoYZC4XAMAcGBSsOAwIHMA0GCCqGSIb3DQMCAgEoMAoGCCqGSM49BAMCBEcw
+RQÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿIhANYMJku1fW9T1MIEcAyREArz9kXCY4tWck5Pt0xzrYhaAiBDSP6e43zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294EcGMDtcOpOM6D4owqy5svHPDw8wIlM4GVhrTw7CQmuBz5uRNnf6a
+ZK3jZIxG1hr/INaNWheHoPIhP micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAMIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; namezCCAv8CAQExDzANBglghkgBZQMEAgEFADALBgkqIKoZIhvcNAwcwDgYIKoZIhvcNAwICAgCAMA0GCCqG
+SIb3DQMCAgFFBy1Xs4uFZER5vniYrH9OrAk
+Z6XdvzDoYZC4XAMAcGBSsOAwIHMA0GCCqGSIb3DQMCAgEoMAoGCCqGSM49BAMCBEcw
+RQÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿIhANYMJku1fW9T1MIEcAyREArz9kXCY4tWck5Pt0xzrYhaAiBDSP6e43zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294EcGMDtcOpOM6D4owqy5svHPDw8wIlM4GVhrTw7CQmuBz5uRNnf6a
+ZK3jZIxG1hr/INaNWheHoPIhPblYaVc6
+7F31--
+

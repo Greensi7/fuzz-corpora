@@ -1,0 +1,12 @@
+ME-Version: 1.0
+Content-Type:"multipart/signed; protocol="applicure"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+igned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the  signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+ContenMHqd9lccchk/BYAKBO49WbOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

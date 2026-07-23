@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed;x)pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+igned message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This i the content 8o be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; namTMBEGA1UEAwwOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--,

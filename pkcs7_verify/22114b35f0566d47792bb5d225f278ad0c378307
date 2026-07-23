@@ -1,0 +1,57 @@
+MIME-Vpe: application/x-pkcs7-mime; smime-0
+Content-Type: multipart/signed; protocol="application/x,pkcs7-signature!"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+---IME-Version: 1.0
+Content-Typ: multipart/signed; protocol=ssage
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4429B17CD26B6p="smime.p7s"
+Contentsion: 1.0
+Content-Type: multipart/gnised; 9294E7F31"
+
+This is;an-TransExDzMIME-Ve---9B5319FF2E4428B17CF31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+-This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E4F31
+Conn
+
+hello t/plain
+
+hello world
+-This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E4F31
+Conn
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: $pgnature; n"
+Content-Transfer-Encoding: base64
+Content-Disposition: attANBglghkgBZQMEAositiattachm;e ifntlenon: attachmentame="ИТime.p7m"
+
+MAsME-Version: 1.0
+Content-Type: multipart/signed; 9294E7F31"
+
+This is;an S/MIME signed message
+
+------9B5лллллллллллллллллллллллллллллллллллл319F?F2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hellod l
+or-w--д--9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime. attAname="smime.p8s"
+
+MIIDEgY94E7F31--
+

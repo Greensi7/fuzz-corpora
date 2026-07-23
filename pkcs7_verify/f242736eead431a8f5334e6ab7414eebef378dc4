@@ -1,0 +1,45 @@
+MIMAYTAlVTMR0wGwYDVQsion: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is, an S/MIME signed message
+
+------9B5Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+C/x-p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MCAgFAt0x43zj4YtI8RuUSLw==
+
+------8B17CD26B69294E7F31--
+

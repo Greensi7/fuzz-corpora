@@ -1,0 +1,9 @@
+MIME-Versiot: 1.0
+Content-Typpe=signed-data; name="smime.p7Version: 1.0
+Content-Type: multipart/signed; protocol="appl"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed meAE2D7A4B-ACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-MI

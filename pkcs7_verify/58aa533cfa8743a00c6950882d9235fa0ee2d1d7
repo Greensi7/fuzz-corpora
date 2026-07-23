@@ -1,0 +1,35 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE¬Dhis is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Contentntent-DisposiME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the conótentp7m"
+Content-Transfer-EM message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This iÚ the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-sse64
+Content-Dispositione: apocol="application/x-pkcs7-signature"; mMIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Thiÿÿÿÿÿÿÿs is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs3-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition:E"age
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+4ont
+e

@@ -1,0 +1,42 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+IMIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBUxEzARBgNVBAMMClBvQyBTE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+IMIFWgYJKoZIhvcNAQcCoIIFSzCCBUcCAQExADALBgkqhkiG9w0BBwGgggLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIhvcNAQELBQAw
+FTETMBEGA1UEAwwKUG9DIFNpZ25lcjAeFw0yNjA1MDgxMDIwNDhaFw0yNzA1MDgx
+MDIwNDhaMBUxEzARBgNVBAMMClBvQyBTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+ARTjAMoI//MPJrnFXYp
+FjDPMk7Y/kCcHztudaIvADkowaFtOm4oMinQFhjwCNCo5K5WrrlAitnpcd5QH2nA
+iVZXjjohQUJEd7n33AGqTwo5EGaCK+aÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ4GCCqGSIb3DQMCAgIAgDAN
+BggqhkiG9w0DAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDANBgkqhkiG9w0B
+AQEFAASCAQAe+xlm/TGg/s/7b0xBc3FFnmmUDEe7ljkehIx61OnBV9ZWA+LcBX/7
+kmMSMdaHjRq4w8FmwBMLzn0ttXVqf0QuPbBF/E6X5EqXhhbXBsZTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKj/iVhhha7e2ywP1XP74reoG3p1YCvU
+fTxzdrWu3pMvfySQbckc9Io4zZ+igBZWy7Qsu5PlFx//DcZD/jE0+CjYdemju4iC
+76Ny4lNiBUVN4DGX76qdENJYDZ4GnjK7GwhWXWUÁP2aOwjagEf/AWTX9SRzdHEIz
+BniuBDgj5ed1Z9OUrVqpQB+sWRD1DMFkrUrExjVTs5ZqghsVi9GZq+Seb5Sq0pbl
+V/uMkWSKPCQWxtIZvoJgEztisO0+HbPK+WvfMbl6nktHaKcpxz9K4iIntO+QY9fv
+0HJJPlutuRvUK2+GaN3VcxK4Q8ncQQ+io0ZPi2eIhA9h/nk0H0qJH7cCAwEAAaN9
+MHswHQYDVR0OBBYEFOeb4iqtimw6y3ZR5Y4HmCKX4XOiMB8GA1UdIwQYMBaAFLQR
+M/HX4l73U54gIhBPhga/H8leMAkGA1UdEwQCMAAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwEwGQYDVR0RBBIwEIIOc2VydmVyLmV4YW1wbGUwDQYJKoZIhvcNAQELBQADggEB
+AEG0PE9hQuXlvtMHcVtGdtA+2UOEuvdGfuEiUlpzPsV8DzM1K3xU5bSWoo0BRFKK
+srHkyEfxCFPAQOULv9cX

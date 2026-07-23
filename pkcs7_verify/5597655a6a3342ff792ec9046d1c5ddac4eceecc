@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-Tyœpe: applicaOVmVyaVNp
+Z24sIEluYy4xNDAyBgNVBAsTK1ZlcmlTaWduIENsYXNzIDEgQ0EgLSBJbmRpdmlk
+dH9kr85JsWinqDH5YKpIo9o8ldDEXMBUGA1UEChMOVmVyaVNp
+Z24sIEluYy4xNDAyBgNVBAsTK1ZlcmlTaWduIENsYXNzIDEgQ0EgLSBJbmMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is anKS/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicRpdmlk
+dWFsIFN1YnNjcmliZXIXDTk2MDcwMTE3MzA0MFoXDTk3MDcwMXAwMDAwKFowDQYJ
+KoZIhvcNAQEation/x-pkcs7-signature; Cn

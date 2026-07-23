@@ -1,0 +1,61 @@
+MIME-Version:  applicaontent-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content
+Content-Transfer-Encoding: base28
+ContMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4429B17CD26B69294E7F3ntent-Ty@pe: text/pl`in
+
+helloOworld
+------9B5319FF2E4429B17CD26B69294E7F31
+Content-Type: appliãŸŒion/x-pkcs7-signature; nameent-DispositiDisp="smime.p7s"
+Content-Transfer-Encoding: bas46
+eContent-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzMIME-Version: 1.0
+Content-Type: multipart/4E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B5319FF2E4429B17CD26B69294E7F3ntent-Ty@pe: text/pl`in
+
+hello world
+------9B5319FF2E4429B17CD26B69294E7F3s"
+Content-Transfer-Encoding: bas46
+eContent-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+--ì---9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+m;e ifntlenon: attachmentame="ˆ’ime.p7m"
+
+MAsGCSgEFADALBgqGSIb3A
+Msigned; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+--ì---9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+m;e ifntlenon: attachmentame="ˆ’ime.p73zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

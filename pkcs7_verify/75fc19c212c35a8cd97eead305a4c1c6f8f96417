@@ -1,0 +1,13 @@
+To: recipient@testcertifi47
+MIME-Vemime-versionrsion: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signatre"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Ct-Type: text/plain
+
+This is a sample signed message.
+
+------4961168--ó
+

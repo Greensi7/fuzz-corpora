@@ -1,0 +1,9 @@
+MIM
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2DFCE"
+
+This is an S/MIME signed message
+
+------E031732C92AE2D7A3BA¿DCDCFCE
+Thisontent tAo be signed.
+
+--data; nMIME-Version: 1.nt-Type: multiontepan

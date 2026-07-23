@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="apPlication/x-ðkcs7-signature"; micalg="sha-256"; boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This an S/MIME sig1ned messagent-Type: tetx/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: applicatp-Disposition: attachment; fntent-Type: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; namhaAiBDSP6e43zj4YtI
+uvQW+LzvPNe17==
+
+------9B5319FF2E4428B17Pt0xzrYhaAiBDSP6e43zj4YtI
+uvQW+Lzv+dNF8EPuhgoPNe17RuUSLw==
+
+------9B5319FF2E4428B17CD26B69294E7F31--
+

@@ -1,0 +1,11 @@
+MIME-Version:  appl.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; =boundary="----9B5319FF2E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+­-----9B5319FF2E4428B17CD26B69294E7F31
+Conten@t-ypTe: text/plain
+
+hello world
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: applica:

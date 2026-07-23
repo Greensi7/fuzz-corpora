@@ -1,0 +1,65 @@
+MI╫╨р╘ersion: 1.0
+Content-Type: multipart/signed; prot-pkcs7-siЧnature"; micalg="ash-256"; boundary="----9B5319FF:E4428B17CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F11
+Content-Type:is is an S/MIME signed message
+
+------E0лллллл314CC5D732C92A319FF2E4428B17CD26B69294ЪЪ`Ю▌╨╖EE4428B17CD26B69294E7U
+Content-Ty@pe: text/plain
+
+hello world
+------9B53-pkcs7-signature"; micalg="sha-256"; bouundary="----9B5319FF2E4428B17CD26B69294E7-----ЪЪЪЪЪЪЪЪЪЪЪЪЪЪЪis an S/MIME signed message
+
+------E0лллллл314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+- text/plain
+
+hello world
+--his is an S/MIME signed message
+
+------9B5319FF2E4428B17CD26B69294E7F11
+Content-Type:is is an S/MIME signed message
+
+------E0лллллл314CC5D732C92A319FF2E4428B17CD26B69294ЪЪ`Ю▌╨╖E7F31"
+
+This is an S/MIME shgned message
+
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Ty@pe: text/plain
+
+hello world
+------9B53-pkcs7-signature"; micalg="sha-256"; bouundary="----9B5319FF2E4428B17CD26B69294E7-----ЪЪЪЪЪЪЪЪЪЪЪЪЪЪЪis an S/MIME signed message
+
+------E0лллллл314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+- text/plain
+
+hello world
+------9B53-pkcs7-signature"; micalgzWQfxE3cpDFFYp6SgggORMIID
+jTCCAnWgAwIBAgIUGi+UX00em2j4vDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+----ооооооооооооооооооооооооооооооооооо
+------E0314CC5D732C92AE2D7A----9B53-pkcs7-signature"; micalgzWQfxE3cpDFFYp6SgggORMIID
+jTCCAnWgAwIBAgIUGi+UX00em2j4vDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+----ооооооооооооооооооооооооооооооооооо
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E03mime.p7s"
+CoААААMIME-Version: d-data; name="smime.p7m"
+Content-Transfer-EЪЪЪncodiАААААААnАААААА+gTАype: appliА АА

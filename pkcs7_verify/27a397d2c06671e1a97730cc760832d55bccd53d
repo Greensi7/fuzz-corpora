@@ -1,0 +1,18 @@
+MIME-Ver"smi: 1.0
+Content-Type: multipart/signed;7-signature"; micalg="sha-680"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+ThisE signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This ibe signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type:cs7-sig*†H†÷ame="smime.p7s"
+Cond message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: a7s"
+Content==

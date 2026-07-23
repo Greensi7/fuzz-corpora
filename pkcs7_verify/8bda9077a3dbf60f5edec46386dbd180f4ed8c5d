@@ -1,0 +1,17 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protoco"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p77s"
+
+MA7J+4dcsnRjFqgZECctHhAfk+PAgMBAAGjMjAwMB0GA1UdDgQW
+BBRZlupXNYq4fny0SE76sr/CdQ2DUTAPBgNVHRMBAf7EBTADAQH/MA0GCSqGSUvwEk5+aXyv
+zJxn4I7mMbDhlNCMHcVtGdtA+2UOEuvdGfuEilpzPsV8DzM1K3xU5bSWooXBRFKK
+srHkyEfxCFPAQ0cXE80ZbMO6zdcXeJjC6mQXGqy2aqeQob0vuSZJ7QHZgTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

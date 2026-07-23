@@ -1,0 +1,11 @@
+Mrsion: 1.0
+Content-Type: multipart/signed; protocol="applican/x-pkha-256"; boundary="----E0314CCÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿC46AE2D7A3BACDCDCFCE"
+
+This is a? S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+----Transfer-Encoding: base28
+CoMIIBfQIÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ×ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ; boundary="----E031CMI
+M

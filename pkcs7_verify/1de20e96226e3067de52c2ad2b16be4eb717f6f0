@@ -1,0 +1,35 @@
+MIM1.0
+Content-Type: multipart/signed; protocolalg="sha-256"; boundary="----E3BACDCDCFCE"
+
+@This is an S/MIME d.
+
+------E0D732C92!E2D7A3BACDCCFCE
+Content-Type: application/x-pkcs7-signa1o
+0.tC nte="appA3BACDCDCFCE"
+
+This is aÿÿÿMIME si\ned mesîge
+
+------E031gned.
+
+------E0314CC5D732C92AE2D7A3BACDC"----E3BACDCDCFCE"
+
+This is an S d-.-
+--
+--signa0o
+CE"
+
+This'is an [/MIMge
+
+------E031gned.
+
+---mime.p7s"
+
+MIINTQYJKoZIhvcNAQcCoIINPjCCGhkiG
+
+¬—–‘ is amesSU1
+
+------E0314CC5D732C"
+
+¬—–‘ is an S/MIME signed mesS0
+
+------C9”””””””””””CFCE--

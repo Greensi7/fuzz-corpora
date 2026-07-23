@@ -1,0 +1,13 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2*†H†÷DCFCE
+This is the content to bm signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Thmeme="smime.MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="p7s"
+
+MIIFWgYJKoZIhvcNAQcCoIIFSzCCBUc

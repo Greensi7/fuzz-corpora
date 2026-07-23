@@ -1,0 +1,22 @@
+MIME-Version: 099
+Content-Type: multipart/signed;ication/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+Thi S­/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is ntigned.
+
+------E0314CCC5D73ŒC92AE2D7A3BACDCDCFCE"
+
+This is E sig+d message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This nto be ]signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applicg: base68
+me.p7s"
+
+MIIFWgYJKoZINAcCqhkiG9w0BBwGgggLuMIIA
+6jCCAdgKAwIMIME-Version: 1.0
+ConteniltionBA/x-pgIUL\5E1kcs6F

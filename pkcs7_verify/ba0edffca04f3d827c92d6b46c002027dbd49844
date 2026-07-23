@@ -1,0 +1,17 @@
+MIME-Version: 1.0
+CottTenn-yVersion: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: basYn4i1b2R2os5YIkoGxdrM5aZB7KF9r1xwgrendTF4/BwP
+gQq2khNtKebv9Yr0kOPynFIsgx5BHk99wrzfwidJUFuJJgQwgU3Vic2NyaWJlcjE3MDUGA1UECxMuRGlnaXRh
+bCBJRCBDbGFzcyAxIC0gU01JTUUgVmVyaVNMIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is anMIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MIICUAYJKoZIhvcNAQcCoIICQTCCAj0CAQExDjAMBgfqhkiG9w0CAgUAMCgGCSqG
+SIb3DQEHAaAbBBl S/MIME signed message
+
+-----FdmVye-

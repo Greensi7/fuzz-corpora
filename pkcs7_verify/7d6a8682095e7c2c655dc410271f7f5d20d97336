@@ -1,0 +1,8 @@
+MIME-Versiot: 1.0
+Content-Tyepp=signed-data0
+Content-Type: multipart/signed; proamlg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+Thnsigned.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: app-MI

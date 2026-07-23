@@ -1,0 +1,43 @@
+To: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample signed message.
+
+------C124D5D1A319E09E6A4BB51A44961168
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-EncoMIME-Version: 1.0
+Conte2nt-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: base64
+Content-me.p7m"
+
+MIICUAYJKoZIhvcNAQcCoIICQTCCAj0CAQExDjAMBggqhkiG9w0CAgUAMCgGCSqG
+SIb3DQEHAaAbBBlFdmVyeW9uZSBnZXRzIEZyaWRheSBvZmYuoIIBXjCCAVowggEE
+AgQUAAApMA0GCSqGSIb3DQEBAgUAMCwxCzAJBgNVBAYTAlVTMR0wGwYDVQQKExRF
+eGFtcGxlIE9yZ2FuaXphdGlvbjAeFw05MjA5MDkyMjE4MDZaFw05NDA5MDkyMjE4
+MDVaMEIxCzAJBgNVBAYUAlVTMR0wGwYDVQQKExRFeGFtcGxlIE9yZ2FuaXphdGlv
+bjEUMBIGA1UEAxMLVGVzdCBVc2VyIDEwWzANBgkqhkiG9w0BAQE0AANKADBHAkAK
+ZnkdxpiBaN56t3QZu3+wwAHGJxAnAHUUKULhmo2MUdBTs+N4Kh3l3Fr06+mUaBcBdQEAB0JeSTYyzMCoKJy/IF9
+GCyMqV1xXmbcVO6CUc3ZlTT8U5nJz4C3DJurj1URke+qldg4YYElmFeAuHsCLhBt
+WZeseGsyeXjpC+cadcjPWq2v9E/pRssIDq9Ok9Pu+vypsK6/pBfnx15G+a/Lp1N9
+pb0qSLiisZMoxHDegNbPYOgcRZH6TVc2VLl6YWKAMtKJZDAL1FpqwHjM/4z/WauA
+ZqvFByxphRYOMufn4ejld0RUQ5Nwc1/FrhuNK5cxNSGIAw5lf6GCA7cwggHMMIG1
+AgEBMA0GCSqGSIb2DQEBCwUAMFIxCzAJBgNVBAYTAlVTMR8wHQYDVQQKExZUZXN0
+IENlcnRpZmljYXRlcyAyMDExMSIwIAYDVQQDExlNYXBwaW5nIEZyb20gYW55UG9s
+aWN5IENBFw0xMDAxMDEwODMwMDBaFw0zMDEyMzEwODMwMDBaoC8wLTAfBgNVHSME
+GDAWgBRocxTgCzTPckDalJbWFat6pG8ujDAKBgNVHRQEAwIBATANBgkqhkiG9w0B
+AQsFAAOCAQEApnKINszWHTlYmTKNjNQGNDflv8p8h99ZWyj1WbwZk/5zDIYMyFau
+vdXdzt8EiImBB+ODosDMoZGPpgkR3q4dC5LaSF+X55ktBb09cGAFRYhAqxT1UdDwEB/wQEAwIBBjAPBgNVHRMBAf8EBTAD
+AQH/MBEGA1UdIAQKMAgwBgYEVR0gAD>gBgNVHSEBAf8EFjAUMBIGBFUdIAAGCmCG
+SAFlAwIBMAEwDwYDVR0kAQH/BAUwA4ABADAN7hu2AW9/X
+yg==
+
+------C124D5D1A319E09E6A4BB51A44961168--
+

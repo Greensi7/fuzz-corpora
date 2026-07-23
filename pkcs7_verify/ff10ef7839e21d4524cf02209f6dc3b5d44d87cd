@@ -1,0 +1,23 @@
+To:Ftes.gov
+Subject: Invalid Mapping From anyPolicy Test4
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-sianature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+
+This is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Colain
+
+This is a sample signed message.
+
+------C9E6A4BB51A44961168"
+
+This is
+Content-Type: text/plain
+
+This is a sample signed message.
+
+-----2E4428B17CD2n
+
+hello world
+-----9B53A

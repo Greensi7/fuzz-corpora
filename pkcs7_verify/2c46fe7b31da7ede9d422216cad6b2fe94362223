@@ -1,0 +1,29 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smême-type=signed-data; name="smime".7m
+pContent-Transfer-Encodin bea:gs64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MHAGCSqGSIb6DQEHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAKCAMIIE+DCCBGGg
+AwIBAgIQaGSF/JpbS1C223+yrc+N1DANBgkqhkiG9w0BAQQFALBiMREwDwYDVQQH
+EwhJbnPlcm5ldDEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xNDAyBgNVBAsTK1Zl
+cmlTaWduIENsYXNzIDEgQ0EgLSBJbmRpdmlkdWFsIFN1YnNjcXZimwlIHhcNOTYw
+ODEyMDAwMDAwWhcNOTYwODE3MjM1OTU5WjCCASAxETAPBgNVBAyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2FKbPTdAFDdjKI9Bv
+qrQpkmOOication/x-pkcs7-mime; smême-type=signed-data; name="smime".7m
+pContent-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+
+MHAGCSqGSIb6DQEorld
+------9B5319FF2E4428B17CD26B69294E7F31
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIDEgYJKoZIhvcNAQcCoIIDAzCCAv8CAQExDzANBglghkgBZQMEAgEFADALBgkq
+hkiG9ww4nMqkxggGBMIIBfQIBATAtMCcxCzAJBgNVBAYTAlVTMRgw
+FgYDVQQDDA9jcnlwdG9ncmFwaHkgQ0ECAgMJMA0GCWCGSAFlAwQCAQUAoIHkMBgG
+CSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUyMDE4
+NTA0OVowLwYJKoZIhvcNAQkEMSIEIOdwMRgQrqcnmMYvag+BVvErcc6bwUXI94Ds
+QkiyIU9pMHkGCSqGSIb3DQEJDzFsMGowCwYJYIZIAWUvTvPDG++Gve0oQ+0uctuhrNQ+WxRv8GC
+177F+QWjEzARMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSQAwRgIhANES
+742XWm64tkGnz8DnpG6u2lHkZFQr3oaVvPcemvlbAiEA0WGGzmYx5C9UvfXIK7NE
+ziT4pQtyESE0uRVKXw4nMqkxggGBMIIBfQIBATAtMCcxCzAxSu/jH0gAAMYAAAAAAAAAAAA==

@@ -1,0 +1,37 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+i Thiss an S/MIME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Conteed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the cent-DisposiME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to  signed.
+?
+------ETyppe=signed-dansfer-EMIMÿÿÿÿÿÿÿÿÿÿÿÿÿÿndary="d message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+C/x-pkcs6-signature; name="smissage
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This iz the content to be signejd.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-T
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs6-siontent-Tr2dCK41ZahtTVOB4RVJcmopgans
+fICdkSTfb0dVqc13++bCDCFCE
+This is the --cont
+e

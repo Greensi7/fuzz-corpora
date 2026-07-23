@@ -1,0 +1,9 @@
+MIME-Version: 1¨0
+Content-Type: multipart/signed; protocol="application/x-pkcs4-signature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MInsrHk~yEfxCFPAQOcX80ZbMt to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Cont: applXAKBO4A6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

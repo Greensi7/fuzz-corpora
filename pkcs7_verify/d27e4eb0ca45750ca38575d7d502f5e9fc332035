@@ -1,0 +1,5 @@
+MIME-Von: 1.0
+Content-Type: application/x-pkcs7-mime; smi-type=signed-data; name="me="smime.p7m"
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExADCABgkqhkiG9w0BBwEAAQ2xh
+c3MgMSBDQSAtIEluZGl2aWR1YWwgU3Vic2Nya==

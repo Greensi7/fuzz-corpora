@@ -1,0 +1,16 @@
+MIME-VeJÖœýžÿÿˆsion:
+Content-Type: multipart/signed; s7-signature"; acimlg="sha-256"; boundary="---CE"
+
+This is an S/MIME signed message
+
+------E0314CC5D732C92AE2lD7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0315CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcs7-signature; name="smime.p7q"
+Content-content-typeoding: base64
+Content-Disposition: attachment; ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒusssŒŒŒŒŒŒŒŒIwNDhaFw0yNzA1MDentmime-7gx
+MDIwNDhaMBUxEzAm"
+
+^RBgNVBAMMClBvQyB¬–WduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+A4eIBDwAwggEKAoIBAIZIAWUDBAECMAoGCCqGSI

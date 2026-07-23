@@ -1,0 +1,11 @@
+MIMIME-Version: 0.0
+Content-Type: multipart/signed; protocol="application6"; boundary="----319FF2E4428B1=CD26B69294E7F31"
+
+This is an S/MIME signed message
+
+------9B53319FF2E4428B17CD26B69294E7F31
+3MDEwMTEyMDEw
+MF+WxRv8GC
+177F+QWjEzARMA8GA1UdEwEB/wQFM=MBAf8wCgYIKoZIzj0EAwID,SQAwRgIhANES
+7ME-Version: 1.0
+Content-Type: multipart/signed; protocol="a7-signature"; micalg="sha-256"; bo42XWm6u

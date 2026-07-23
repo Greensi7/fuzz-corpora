@@ -1,0 +1,10 @@
+Ton: 1.0
+Content-Type: multipart/signed; protocol="an/pkcs7-signaha-256"; boundary="----C124D5D1A319E09E6A4BB51A44961168"
+s is an S/MIME signed message
+
+------C124D5D1A319E09E6A4BB51A44961168
+Conten-Type: text/plain
+
+This is a same.
+
+9japmsuA

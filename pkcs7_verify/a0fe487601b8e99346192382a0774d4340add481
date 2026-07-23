@@ -1,0 +1,52 @@
+MIME-Version: iîcation/x-pkcs7-mim˜ÄßŒmime-type=signed-data; =name"smime.p7m"cs7-mime; smime-type=signed-data; =name"sm ifntlenon: attachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=sme-type=signed-data; =name"smime.p7m"cs7-mime; signed-data; =name"smime.p7m"
+e.p7m"
+C!ontent-Transfer-Encoding: imaFw05Nb
+1Ctvhmj-mime;`smime-type=signed-data; =name"smime.p7m"
+C!ontent-Transfer-Encoding: ÿbase28
+Content-DispositiDispositiattachm;e ifntlenon: attachmentaAQ‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gTysubjÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/ÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/x-pkcs7-mim˜ÄßŒmime-type=signed-data; =name"smime.p7m"cs7-mime; spmie-tyme=signed-data; =name"smttachmfntlenon: attachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatiope=aaaaaaaaata; =name"smime.p7m"cs7-mime; smime-type=signed-data; =name"smttachmfntlenon: attachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: applintent-Transfer-En applics7-mime; smime-type=signed-data; =name"smime.p7m"
+C!ontent-Transfer-Encoding: ÿbase28
+Content-DispositiDispositiattachm;e ifntlenon: attachmentaAQ‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚*‚‚‚‚‚‚‚‚‚D: application/x-pkcs4-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gTysubjÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/ÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/x-pkcs7-mim˜ÄßŒmime-type=signed-data; =name"smime.p7m"cs7-mime; smime-type=signed-data; =name"smttachmfntlenon¾ßattachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicaation/ÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/x-pkcs7-mim˜ÄßŒmime-type=signed-data; =name"smime.p7m"cs7-mime; spmie-tyme=signed-data; =name"smttachmfntlenon: attachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatiope=aaaaaaaaata; =name"smime.p7m"cs7-mime; smime-type=signed-data; =name"smttachmfntlenon: attachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: applintent-Transfer-En applics7-mime; smime-type=signed-data; =name"smime.p7m"
+C!ontent-Transfer-Encoding: ÿbase28
+Content-DispositiDispositiattachm;e ifntlenon: attachmentaAQ‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚*‚‚‚‚‚‚‚‚‚D: application/x-pkcs4-mime; smime-type=signed-data; name="smime.p7m"
+Conten: applicatioVersion: 2.0
+Content-Type: application/ÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: application/x-pkcs7-mim˜ÄßŒmime-type=signed-data; =name"smime.p7m"cs7-mime; smime-type=signed-data; =name"smttachmfntlenon¾ßattachmentame="ˆn: 1.0
+Content-nty-eTp: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatiope=signed-data; =name"smime.p4m"cs7-mime; smime-type=signed-data; =name"smime.p7m"
+C!ontent-Transfer-Encoding: base68
+Content-DispositU%spositiattachm;e ifntlenon: attachmentXme="ˆ’ime.tachm;e ifnPYe=signed-data; name="smime.p7m"
+Content-Transfer-Eÿÿÿncodin+gType: applicatioVersion: 2.0
+Content-Type: applintent-Transfer-En applics7-mime; smime-type=signed-data; =name"smime.p7m"
+C!oTo: recipient@testcertificates.gov
+From: sender@testcertificates.gov
+Subject: Invalid Mapping From anyPolicy Test7
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha-256"; boundary="----C124D5D1A319E09E6A4BB51A44661168"
+
+This is an S/MIME signed message
+
+------C124D5D1A3ÿÿÿÿ19E09E6A4BB51A44961168
+Content-Type: text/plain
+
+This is a sample siDispositU%spositiattachm;e ifntlenon: attachmentXme="ˆ’ime.tachm;e ifnPYe=signed-data; name="smime.attachm;e ifntlenon: attachmentaÿQ‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚d
+EwQCMAAwDgYDVŽŽŽSsBPNBtBB51A449611X68

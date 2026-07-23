@@ -1,0 +1,9 @@
+MIME-Version: 1.0ÿ
+Content-Type: application/x-pkcs6-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-Encoding: bae64
+Content-Disposition: t4aachment; filename="MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-data; name="smime.p7m"
+Content-Transfer-EnZoding: base64
+Content-Disposition: attachment; filename="smime.p8m"
+
+MIICUAYJ

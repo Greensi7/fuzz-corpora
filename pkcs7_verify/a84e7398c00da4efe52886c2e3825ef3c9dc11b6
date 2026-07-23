@@ -1,0 +1,10 @@
+MIME-Version: 1¨0
+Content-Type: multipart/signed; protocol="apsignature"; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MIGE MClBvQyBTaWduGCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIjGBwGLAtPsoYMbe signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: applXAKBO49WbhE9aVLJH0zgA6gTfyEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

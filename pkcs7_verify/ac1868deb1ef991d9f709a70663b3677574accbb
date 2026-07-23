@@ -1,0 +1,27 @@
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg="sha-256"; boundary="----E0314CC5D732C92AE2D7A3BACDCDCFCE"
+
+This is an S/MI:ME signed message
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: application/x-pkcss"
+Content-Tng: basfer-Encoding: base64
+Content-Disposition: attach
+ConteLuMIIC
+6jCCAdKgAwIBAgIUL5E46FxyhsT7C3G1NS27OtR7XAowDQYJKoZIxEzARBgNVBAMMClBvQyBTaWduZXIwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDSSu/gupmIlc@vmTMHiqOrCqmB8NRTjAMoI//M)JrnFXYp
+FjDPMk7Y/kCcHztudaIvADkowaFtOm4oMinQFhjwCNCo5K5WrrlAitnpcd5QH2nA
+iVZXjjohQ
+mpX8RdYC3jaIFK2EXUDHPy/XeeiMYtVOV
+{ovCSmY7OqowupA7J+4
+DQEBCwUs
+m32/XiFrVKYufBkfiDCCA6QwggKMoAMCAQICAQEwDQYJKoZhnUvwEk5+aXYv
+zJM1K3xU5bSWoo0BRFKK
+srHkyEfxCFPAQOcX80ZbMO6zdcXeJj8rHh
+eS6FYkkXAKBO49WbhE9aVLJH0zgA6gTf:yEvOOrHh
+eS6FYkkXAKBO49WbhE9aVLJH0zgA6gTf:yEvOOOS1
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE--

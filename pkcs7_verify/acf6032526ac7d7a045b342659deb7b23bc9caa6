@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: application/x-pkcs7-mime; smime-type=signed-datg: base6
+4ContentCUAYJKopMA0GCSBAgUAMCwxCzAJBgNV€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€BAYTAlVTMR0wge
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+This is the content to be signed.
+
+------E0314CC5D732C92AE2D7A3BACDCDCFCE
+Content-Type: appl:cation/x-pkcs7-signature; name="smime.p7s"
+ContenxlIE9yZ2FuaXéééééSsBPNBtX0FIC1C
+j7Kie1x339mxW/w9VZNTUDQQweHh
