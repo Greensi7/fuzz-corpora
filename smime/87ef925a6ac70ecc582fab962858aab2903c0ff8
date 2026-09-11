@@ -1,0 +1,10 @@
+Content-Type:multipart/signed;boundarY=""
+
+--
+
+--
+Content-Type:aPplication/pkcs7-signature
+
+MAQGAgRA
+
+----

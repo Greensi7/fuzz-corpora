@@ -1,0 +1,3 @@
+.pragma=dollarid:on
+.include=/etc/ssl
+.include=/etc/ssl
